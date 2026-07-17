@@ -38,10 +38,10 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [Do we have lectures? What is a lectorial? 🎓](#do-we-have-lectures-what-is-a-lectorial-)
   - [Can I attend in-person lectorials/tutorials remotely?](#can-i-attend-in-person-lectorialstutorials-remotely)
   - [When are lecture slides made available?](#when-are-lecture-slides-made-available)
-  - [What is the `01_Canvas` session?](#what-is-the-01_canvas-session)
   - [Will there be lectorial recordings?](#will-there-be-lectorial-recordings)
   - [How important is attending in person?](#how-important-is-attending-in-person)
   - [I couldn't attend the lectorial, can you tell me what happened and what I should know?](#i-couldnt-attend-the-lectorial-can-you-tell-me-what-happened-and-what-i-should-know)
+  - [What is the `01_Canvas` session?](#what-is-the-01_canvas-session)
   - [When are we getting the tute solutions, and why not all of them right away?](#when-are-we-getting-the-tute-solutions-and-why-not-all-of-them-right-away)
   - [What about tutes, labs, consultation times? Will they be recorded?](#what-about-tutes-labs-consultation-times-will-they-be-recorded)
   - [Why don't we get the concrete final answer to questions instead of getting a rephrase of questions or a question back?](#why-dont-we-get-the-concrete-final-answer-to-questions-instead-of-getting-a-rephrase-of-questions-or-a-question-back)
@@ -441,24 +441,17 @@ Slides play a much less important role in a lectorial than they used to in lectu
 
 That said, when the slides do contain useful information (e.g., news or specific technical points discussed), they will be provided after the session on EdStem.
 
-## What is the `01_Canvas` session?
-
-The additional "Canvas" tag means the lectorial will be recorded: 📹
-
-![](imgs/canvas_session.png)
-
-Note this does **not** mean hybrid concurrent teaching; RMIT stopped that several years ago. It was used during COVID as an emergency measure, but is no longer relevant.
-
-> [!TIP]
-> Regardless of your session, there is always a LOT of free space in the classroom, so you are always welcome to join (and use recordings as a backup for later reviewing if needed). See the next section for "recordings" of the session.
-
 ## Will there be lectorial recordings?
 
-YES! Lectorials are automatically recorded via **Echo360**. In fact, because presumably there are too many students enrolled in the course, an additional "`01_Canvas`" registration option was opened, meaning the course can be taken online via the recordings. That said, there is ALWAYS plenty of space in the room (which is great!), so this should not be an issue at all.
+Lectorials are automatically recorded via **Echo360**, yes.  That said, there is ALWAYS plenty of space in the room (which is great!), so **we invite and encourage students to attend in person**, rather than watch the recording later, mostly for three reasons:
 
-While lectorials are recorded via Echo360, the recordings are **out of my control**, and in the past there have been numerous issues, including missing recordings, muted recordings, noisy or very low audio, no video, truncated videos, missing projection, etc. There can also be privacy issues (e.g., students asking personal questions close to the mic) that need to be addressed before a recording goes out.
+1. The recordings are **out of my control** 🤷, and in the past there have been numerous issues, including missing recordings, muted recordings, noisy or very low audio, no video, truncated videos, missing projection, etc.  
+2. There can also be privacy issues (e.g., students asking personal questions close to the mic) that need to be addressed before a recording goes out safely, so recordings will not be available right away, but after they have been reviewed and curated.
+3. More importantly, recordings are **not** a professionally produced/curated video like the ones you would find in a polished online course. They are a raw capture of a live, in-person session, and watching a static camera feed of someone talking for two hours, alone, on your laptop, is a very different (and much more boring) experience than "being in the room" 😫. Note that in the lecture, the instructor walks around the class and interacts with students (whose voices will not be recorded), and there will be gaps, etc. Very boring indeed to watch raw...
 
-Check the next question...
+In my experience, most students who plan to "just watch the recording later" end up dropping the ball: the recording sits unwatched, or gets abandoned a few minutes in, and the content never actually gets absorbed. 
+
+Which brings us to the next question...
 
 ## How important is attending in person?
 
@@ -494,6 +487,17 @@ The short answer is: _no_. 😉
 We understand that sometimes things come up and you may not be able to attend a class or workshop. However, with a course of over 400 students, it is unfortunately **not feasible** (nor a smart use of limited resources) for teaching staff to individually recap content from missed sessions on request.
 
 It is **each student's responsibility** to catch up on missed material independently. We recommend reviewing any shared workshop slides, notes, and recordings (if available), or speaking with classmates about what was covered. If, after doing so, you have specific questions about the material, we are more than happy to help clarify them in tutorials.
+
+## What is the `01_Canvas` session?
+
+The additional "Canvas" tag means the lectorial will be recorded: 📹
+
+![](imgs/canvas_session.png)
+
+Note this does **not** mean hybrid concurrent teaching; RMIT stopped that several years ago. It was used during COVID as an emergency measure, but is no longer relevant.
+
+> [!TIP]
+> Regardless of your session, there is always a LOT of free space in the classroom, so you are always welcome to join (and use recordings as a backup for later reviewing if needed). See the next section for "recordings" of the session.
 
 ## When are we getting the tute solutions, and why not all of them right away?
 
