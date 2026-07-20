@@ -39,7 +39,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [Can I attend in-person lectorials/tutorials remotely?](#can-i-attend-in-person-lectorialstutorials-remotely)
   - [When are lecture slides made available?](#when-are-lecture-slides-made-available)
   - [Will there be lectorial recordings?](#will-there-be-lectorial-recordings)
-  - [How important is attending in person?](#how-important-is-attending-in-person)
+  - [Attendance: do I need to attend lectorials and tutorials, and how important is it?](#attendance-do-i-need-to-attend-lectorials-and-tutorials-and-how-important-is-it)
   - [I couldn't attend the lectorial, can you tell me what happened and what I should know?](#i-couldnt-attend-the-lectorial-can-you-tell-me-what-happened-and-what-i-should-know)
   - [What is the `01_Canvas` session?](#what-is-the-01_canvas-session)
   - [When are we getting the tute solutions, and why not all of them right away?](#when-are-we-getting-the-tute-solutions-and-why-not-all-of-them-right-away)
@@ -229,30 +229,7 @@ If you have limited time to devote to course sessions (lectorials and tutorials)
 
 ## Attendance: do I need to attend lectorials and tutorials?
 
-You must come? **_No_** You should come? **_Yes!_**
-
-While a minimum attendance standard is not compulsory, **non-attendance may seriously jeopardise your chances of success in this course**:
-
-- First, missing in-person assessments (e.g., Exercise Challenges or marked class quizzes) will result in failure of that assessment (no replacements). 
-- Second, the teacher will generally identify subtle technical points in the material, discuss them, and give insights that would be quite difficult for a student to grasp alone (most likely they'll be missed entirely). 
-- Finally, in the lectorial, the teacher will put the material in context (why? what? when?), which helps ground the technical content and supports understanding and motivation. So, we strongly suggest attending ALL lectures and ALL tutorials to maximise your chances of success in the course.
-
-Besides these technical aspects, there are also other very good reasons to attend in-person teaching sessions:
-
-- Studying at uni is a _privilege_ that few of us have, and usually only once in a lifetime, so it deserves to be honoured.
-- A unique aspect of being there is the chance to be taught _interactively_, on the spot, by academics who are also scientists in the field: asking questions, participating in discussions, and clarifying doubts in real-time.
-- It's also a chance to interact with fellow students who are in "the same learning boat": they could become your new friends and/or colleagues, and together you build a community of learners that reduces the cognitive load of studying alone.
-- Attending in-person promotes _active listening_, with no space for the distractions of studying from home.
-- Structuring your day around these sessions helps with time management.
-
-All this makes uni unique and different from watching (not so great) videos or learning by yourself, so not attending sessions gives up what is probably the main feature of studying "on campus". so, be wise and do not miss out 😉
-
-Over the last couple of years, during COVID times, we experienced first-hand how limited the online experience is, and how much better, more fruitful, and more enjoyable in-person learning is. I hope this motivates us all to make that extra effort to "be there". It enhances not only your own experience, but also that of others -- "being there" contributes to everyone's learning.
-
-> [!IMPORTANT]
-> Note that, from 2023, RMIT is committed to _in-person teaching on campus_. The course will NOT run online or in hybrid mode anymore, as it did in previous years due to COVID. This means you should _not_ expect that what happens face-to-face (in-person) will have an "online replacement" (be it streaming, recording, replacement sessions, etc.). This doesn't mean there will be no online presence -- there will be (e.g., forum, GitHub) -- but as additional and complementary resources, not as replacements or substitutes.
-
-So, hope to see you in the room, interacting with teachers and fellow students! 👏
+Check [this question](#attendance-do-i-need-to-attend-lectorials-and-tutorials-and-how-important-is-it) for a detailed answer.
 
 ## Can I audit the course?
 
@@ -465,22 +442,33 @@ In my experience, most students who plan to "just watch the recording later" end
 
 Which brings us to the next question...
 
-## How important is attending in person?
+## Attendance: do I need to attend lectorials and tutorials, and how important is it?
 
-Great question! I would hope that my "live" lectures are better quality than watching a recording, ha! 😃 Is it the same to watch a football game on TV or in the stadium?
+You must come? **_No_**. You should come? **_Yes!_**
 
-First, except for in-person assessments, there are no actual assessments in class. Uni is not school. There is no direct penalty for not attending lectorials, except when there are assessments (in which case not attending attracts zero marks and warrants no re-submission of the component!).
+Uni is not school: except for in-person assessments, there is no direct penalty for not attending. But while a minimum attendance standard is not compulsory, **non-attendance may seriously jeopardise your chances of success in this course**:
 
-However, I am convinced that **attending in person has many benefits over the video** and that it **produces better outcomes** in general because:
+- Missing in-person assessments (e.g., Exercise Challenges or marked class quizzes) results in failure of that assessment, with no replacements.
+- The teacher will generally identify subtle technical points in the material, discuss them, and give insights that would be quite difficult for a student to grasp alone (most likely they'll be missed entirely).
+- In the lectorial, the teacher puts the material in context (why? what? when?), which helps ground the technical content and supports understanding and motivation.
 
-1. In-person attendance encourages **active listening**, note-taking, and asking questions. The physical environment minimizes multitasking compared to watching a video, where distractions are easy.
-2. You can **ask** questions, **participate** in discussions, and **clarify** points on the spot. Non-verbal cues from the lecturer (me!) -- emphasis, gestures, tone -- help you better understand and retain the material.
-3. Attending lectures gives **structure to your day**, which can improve time management and study habits. Watching recordings "later" often turns into procrastination, or never, especially if not reinforced by deadlines.
-4. Being there lets you **learn as a community** -- it brings fun and a sense of "team". You get to join the competition quizzes, laugh together, and hear each other's questions. Very importantly, by being there you have **big chances of making friends, future colleagues, and even partners in life** (many find their significant other at uni!). All this reduces friction and, in turn, improves learning and enjoyment.
-5. Watching **recordings** often means pausing and rewinding, which can feel efficient but **adds cognitive overhead**. Live lectures unfold at a natural pace that supports understanding over time.
-6. Finally, by "being there" you make sure you **"get what it is"** and minimize risk -- recordings can fail, or be of poor quality.
+So, we strongly suggest attending ALL lectures and ALL tutorials to maximise your chances of success in the course. Besides these technical aspects, there are also other very good reasons to attend in-person, which I'm convinced **produce better outcomes** in general:
 
-Being a uni course, we expect students to be **more autonomous** in this decision (unlike school students), and we understand everyone's circumstances are different. It is ultimately _your_ choice whether to be there or not. But overall, the recording is, in my view, a second-rate version; OK for some, but not the "quality" product. 😉
+- Studying at uni is a **_privilege_** that few of us have, and usually only once in a lifetime, so it deserves to be honoured.
+- A unique aspect of being there is the chance to be taught **_interactively_**, on the spot, by academics who are also scientists in the field: asking questions, participating in discussions, and clarifying doubts in real-time. Non-verbal cues from the lecturer -- emphasis, gestures, tone -- also help you better understand and retain the material.
+- It's a chance to interact with fellow students who are in "the same learning boat": they could become your new friends, future colleagues, or even partners in life (many find their significant other at uni!). Together you build a **community of learners** that reduces the cognitive load of studying alone, and brings fun and a sense of "team".
+- Attending in-person promotes **_active listening_**, with the physical environment minimizing the multitasking and distractions that come with watching a video at home.
+- **Structuring your day** around these sessions helps with time management. Watching recordings "later" often turns into procrastination, or never, especially without a deadline forcing the issue -- and unlike a live lecture's natural pace, pausing and rewinding a recording can feel efficient but adds **cognitive overhead**.
+- **Being there** means you don't have to worry about the recording failing or being of poor quality.
+
+All this makes uni unique and different from watching a (not so great) video or learning by yourself, so not attending gives up what is probably the main feature of studying "on campus" -- so, be wise and don't miss out 😉
+
+Over the last couple of years, during COVID times, we experienced first-hand how limited the online experience is, and how much better, more fruitful, and more enjoyable in-person learning is. I hope this motivates us all to make that extra effort to "be there". It enhances not only your own experience, but also that of others -- "being there" contributes to everyone's learning.
+
+> [!IMPORTANT]
+> Note that, from 2023, RMIT is committed to _in-person teaching on campus_. The course will NOT run online or in hybrid mode anymore, as it did in previous years due to COVID. This means you should _not_ expect that what happens face-to-face (in-person) will have an "online replacement" (be it streaming, recording, replacement sessions, etc.). This doesn't mean there will be no online presence -- there will be (e.g., forum, GitHub) -- but as additional and complementary resources, not as replacements or substitutes.
+
+Being a uni course, we expect students to be **more autonomous** in this decision than school students, and we understand everyone's circumstances are different. It is ultimately _your_ choice whether to be there or not. But overall, the recording is, in my view, a second-rate version; OK for some, but not the "quality" product 😉.
 
 **Maybe this is my recommendation.** Two years ago, in the second-to-last lecture, a student came up to me after class and said:
 
@@ -488,9 +476,9 @@ Being a uni course, we expect students to be **more autonomous** in this decisio
 
 This actually happened! I thanked the student for his words; of course I felt good that he liked it, and valued his positive feedback. It was also good that he managed to catch at least two lectures (he came back for the final one). However, I felt sad that a good, motivated student like him had missed the opportunity earlier... 😢 **Opportunities are to be taken when they arise.**
 
-So, **maybe make the effort to come for the first few, and then decide?** The room is really beautiful, eh...
+So, **maybe make the effort to come for the first few, and then decide?** The room is really beautiful (a total privilige), eh... Hope this provides some context to help you make a better decision, but ultimately it is yours 🙏.
 
-Hope this provides some context to help you make a better decision, but ultimately it is yours. 🙏
+So, hope to see you in the room, interacting with teachers and fellow students! 👏
 
 ## I couldn't attend the lectorial, can you tell me what happened and what I should know?
 
