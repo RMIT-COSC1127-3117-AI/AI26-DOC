@@ -229,11 +229,23 @@ If you have limited time to devote to course sessions (lectorials and tutorials)
 
 ## Attendance: do I need to attend lectorials and tutorials?
 
-The short answer is: _No_. Is it probably a very good idea to attend them? _Yes!_
+You must come? **_No_** You should come? **_Yes!_**
 
-While a minimum attendance standard is not compulsory, **non-attendance may seriously jeopardise your chances of success in this course**. First, missing in-person assessments (e.g., Exercise Challenges or marked class quizzes) will result in failure of that assessment (no replacements). Second, the teacher will generally identify subtle technical points in the material, discuss them, and give insights that would be quite difficult for a student to grasp alone (most likely they'll be missed entirely). Finally, in the lectorial, the teacher will put the material in context (why? what? when?), which helps ground the technical content and supports understanding and motivation. So, we strongly suggest attending ALL lectures and ALL tutorials to maximise your chances of success in the course.
+While a minimum attendance standard is not compulsory, **non-attendance may seriously jeopardise your chances of success in this course**:
 
-There are also other good reasons to attend in-person teaching sessions, besides just "passing" the course. Studying at uni is a _privilege_ that very few of us have, and a unique aspect of it is the chance to be taught interactively, on the spot, by academics who are also scientists in the field! Also important is the chance to interact with fellow students who are in "the same learning boat": they could become your new friends and/or colleagues! All this makes uni unique and different from watching videos or learning by yourself, so not attending sessions gives up what is probably the main feature of studying on campus. For many students, this may also be the only time in their lives they get to study at uni, so it's wise not to miss out, I think 👍
+- First, missing in-person assessments (e.g., Exercise Challenges or marked class quizzes) will result in failure of that assessment (no replacements). 
+- Second, the teacher will generally identify subtle technical points in the material, discuss them, and give insights that would be quite difficult for a student to grasp alone (most likely they'll be missed entirely). 
+- Finally, in the lectorial, the teacher will put the material in context (why? what? when?), which helps ground the technical content and supports understanding and motivation. So, we strongly suggest attending ALL lectures and ALL tutorials to maximise your chances of success in the course.
+
+Besides these technical aspects, there are also other very good reasons to attend in-person teaching sessions:
+
+- Studying at uni is a _privilege_ that few of us have, and usually only once in a lifetime, so it deserves to be honoured.
+- A unique aspect of being there is the chance to be taught _interactively_, on the spot, by academics who are also scientists in the field: asking questions, participating in discussions, and clarifying doubts in real-time.
+- It's also a chance to interact with fellow students who are in "the same learning boat": they could become your new friends and/or colleagues, and together you build a community of learners that reduces the cognitive load of studying alone.
+- Attending in-person promotes _active listening_, with no space for the distractions of studying from home.
+- Structuring your day around these sessions helps with time management.
+
+All this makes uni unique and different from watching (not so great) videos or learning by yourself, so not attending sessions gives up what is probably the main feature of studying "on campus". so, be wise and do not miss out 😉
 
 Over the last couple of years, during COVID times, we experienced first-hand how limited the online experience is, and how much better, more fruitful, and more enjoyable in-person learning is. I hope this motivates us all to make that extra effort to "be there". It enhances not only your own experience, but also that of others -- "being there" contributes to everyone's learning.
 
