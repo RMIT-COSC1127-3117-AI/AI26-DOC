@@ -28,6 +28,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [I made a bad commit and pushed to repo, how can I undo it?](#i-made-a-bad-commit-and-pushed-to-repo-how-can-i-undo-it)
   - [How can I check which GH username I am using for GitHub Classroom in the course?](#how-can-i-check-which-gh-username-i-am-using-for-github-classroom-in-the-course)
   - [I can't open a project in VSCode when clicking the button from GitHub](#i-cant-open-a-project-in-vscode-when-clicking-the-button-from-github)
+  - [My `submission` tag does not appear in Classroom50](#my-submission-tag-does-not-appear-in-classroom50)
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
   - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
@@ -324,6 +325,11 @@ The GitHub username you selected is in the name of all of the projects you clone
 ## I can't open a project in VSCode when clicking the button from GitHub
 
 This is often due to a space in a file path on your machine (generally for Windows users), but might have other causes. This button relies on a VSCode extension that is deprecated, so may not be reliable. We strongly encourage all students to clone the repository locally on their machine, and work from there.
+
+## My `submission` tag does not appear in Classroom50
+
+Our submission process (using the `submission` tag) does not rely on Classroom50, so you can safely ignore it and focus on the **Submission Instructions** in the specification. 
+Classroom50 is only used for acquiring a copy of the template repository to work on—no marking is done there.
 
 ------------------------------
 # PYTHON
