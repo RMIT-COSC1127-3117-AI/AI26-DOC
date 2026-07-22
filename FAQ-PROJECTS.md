@@ -29,6 +29,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [How can I check which GH username I am using for GitHub Classroom in the course?](#how-can-i-check-which-gh-username-i-am-using-for-github-classroom-in-the-course)
   - [I can't open a project in VSCode when clicking the button from GitHub](#i-cant-open-a-project-in-vscode-when-clicking-the-button-from-github)
   - [My submission does not appear in Classroom50](#my-submission-does-not-appear-in-classroom50)
+  - [Classroom50 is blocked](#classroom50-is-blocked)
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
   - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
@@ -330,6 +331,10 @@ This is often due to a space in a file path on your machine (generally for Windo
 
 Our submission process (using the `submission` tag) does not rely on Classroom50, so you can safely ignore it and focus on the **Submission Instructions** in the specification. 
 Classroom50 is only used for acquiring a copy of the template repository to work on—no marking is done there.
+
+## Classroom50 is blocked
+
+This has been an issue for some students depending on their ISP. We are not yet clear on the specifics because we have been unable to easily replicate this problem, but it appears that either changing your DNS or accessing Classroom50 on a different network (e.g. the university network) works to circumvent it. You only need to access Classroom50 once per project, to get a copy of the assessment repository in GitHub.
 
 ------------------------------
 # PYTHON
