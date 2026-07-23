@@ -334,7 +334,7 @@ Classroom50 is only used for acquiring a copy of the template repository to work
 
 ## Classroom50 is blocked
 
-This has been an issue for some students depending on their ISP. We are not yet clear on the specifics because we have been unable to easily replicate this problem, but it appears that either changing your DNS or accessing Classroom50 on a different network (e.g. the university network) works to circumvent it. You only need to access Classroom50 once per project, to get a copy of the assessment repository in GitHub.
+This may be an issue, depending on your ISP. We are unclear on the specifics because we are unable to easily replicate this problem, but it appears that either changing your DNS or accessing Classroom50 via a different network (e.g. the university network) addresses it. Remember that you need only access Classroom50 once per project, to create a copy of the assessment template repository in GitHub.
 
 ------------------------------
 # PYTHON
