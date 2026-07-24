@@ -7,8 +7,9 @@ As any FAQ page, this page is always "under construction”. As we realise that 
 - [THE AI COURSE](#the-ai-course)
   - [What is this course about? What is it NOT about?](#what-is-this-course-about-what-is-it-not-about)
   - [What are the pre-reqs for AI?](#what-are-the-pre-reqs-for-ai)
-  - [I have not taken A\&A. Can I take the AI course without the pre-req](#i-have-not-taken-aa-can-i-take-the-ai-course-without-the-pre-req)
+  - [I have not taken A\&A. Can I take the AI course without the pre-req? I will put a lot of effort and study hard, I know I can do it!](#i-have-not-taken-aa-can-i-take-the-ai-course-without-the-pre-req-i-will-put-a-lot-of-effort-and-study-hard-i-know-i-can-do-it)
   - [I have taken A\&A, but my result is RNF or DEF, can I take the AI course or have a waiver?](#i-have-taken-aa-but-my-result-is-rnf-or-def-can-i-take-the-ai-course-or-have-a-waiver)
+  - [OK I have taken the pre-req elsewhere, can you give me a waiver for the pre-req?](#ok-i-have-taken-the-pre-req-elsewhere-can-you-give-me-a-waiver-for-the-pre-req)
   - [Is this course theoretical or practical?](#is-this-course-theoretical-or-practical)
   - [What programming languages are used?](#what-programming-languages-are-used)
   - [Is there any mentoring program for this course?](#is-there-any-mentoring-program-for-this-course)
@@ -117,15 +118,30 @@ When you take the course as an option/elective (i.e., it is not core in your pro
 >[!TIP]
 > Sometimes the student has not the exact pre-reqs, but can request a waiver by providing evidence of equivalency. For example, a similar course done in another uni. Please come and talk to me if you think you may be eligible for a pre-req waiver.
 
-## I have not taken A&A. Can I take the AI course without the pre-req
+## I have not taken A&A. Can I take the AI course without the pre-req? I will put a lot of effort and study hard, I know I can do it!
 
-See question above. As the program guide states, you are to plan ahead and meet the pre-reqs, they are there for a reason of course. Note enforced pre-reqs cannot be replaced by "personal statements". The pre-reqs are there for a reason.
+Basically, see question above. ☝️ 
+
+❗ ⛔ Personal statements are not sufficient to waive the pre-reqs. 
+
+As explained in [Course Requisites](https://www.rmit.edu.au/students/my-course/program-course-information/course-requisites), students are **not permitted to enrol** in these courses until the **prerequisite is satisfied** by a pass grade in a specified RMIT course, or credit granted for the prerequisite course, or the specified corequisite is concurrently enrolled.
+
+Enforced course requisites are used where your success in a course is dependent on prior knowledge that must be demonstrated by _successful_ completion of a specified RMIT course (prerequisite) or concurrent enrolment in a specified RMIT course (corequisite).
+
+So, if the pre-reqs are not built-in as part of your core program, you are to **plan ahead** so as to meet the pre-reqs. Again, enforced pre-reqs cannot be replaced by "personal statements".
 
 ## I have taken A&A, but my result is RNF or DEF, can I take the AI course or have a waiver?
 
 RNF or DEF means that you have not yet completed the course, you are basically still doing it. The pre-req means you have already PASSED it. The programs are structured in a way that you are expected to have completed the pre-reqs within the set timelines; if it takes you longer than the regular semester you would require a plan adjustment with your Program Manager.
 
 So, you can start the course, but you will need to check the Census date and have a "plan B" at hand in case your final grade is not available or you do not pass it. An RNF or DEF is not sufficient support evidence for a waiver, which is granted when you have successfully completed an equivalence course elsewhere (fully completed, not still pending).
+
+## OK I have taken the pre-req elsewhere, can you give me a waiver for the pre-req?
+
+A waiver recognises that you met the pre-reqs elsewhere, and it is granted by your Program Manager via the formal enrollent process, not via email. 🚫 
+
+Follow the instructions on [how to apply for an enforced requisite waiver](https://www.rmit.edu.au/students/my-course/program-course-information/course-requisites). Remember you need to attach the evidence, personal statements are not sufficient. The waiver application will go through the formal process and will be approved or rejected.
+
 
 ## Is this course theoretical or practical?
 
