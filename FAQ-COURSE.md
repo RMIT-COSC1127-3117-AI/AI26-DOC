@@ -8,6 +8,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [What is this course about? What is it NOT about?](#what-is-this-course-about-what-is-it-not-about)
   - [What are the pre-reqs for AI?](#what-are-the-pre-reqs-for-ai)
   - [I have not taken A\&A. Can I take the AI course without the pre-req](#i-have-not-taken-aa-can-i-take-the-ai-course-without-the-pre-req)
+  - [I have taken A\&A, but my result is RNF or DEF, can I take the AI course or have a waiver?](#i-have-taken-aa-but-my-result-is-rnf-or-def-can-i-take-the-ai-course-or-have-a-waiver)
   - [Is this course theoretical or practical?](#is-this-course-theoretical-or-practical)
   - [What programming languages are used?](#what-programming-languages-are-used)
   - [Is there any mentoring program for this course?](#is-there-any-mentoring-program-for-this-course)
@@ -119,6 +120,12 @@ When you take the course as an option/elective (i.e., it is not core in your pro
 ## I have not taken A&A. Can I take the AI course without the pre-req
 
 See question above. As the program guide states, you are to plan ahead and meet the pre-reqs, they are there for a reason of course. Note enforced pre-reqs cannot be replaced by "personal statements". The pre-reqs are there for a reason.
+
+## I have taken A&A, but my result is RNF or DEF, can I take the AI course or have a waiver?
+
+RNF or DEF means that you have not yet completed the course, you are basically still doing it. The pre-req means you have already PASSED it. The programs are structured in a way that you are expected to have completed the pre-reqs within the set timelines; if it takes you longer than the regular semester you would require a plan adjustment with your Program Manager.
+
+So, you can start the course, but you will need to check the Census date and have a "plan B" at hand in case your final grade is not available or you do not pass it. An RNF or DEF is not sufficient support evidence for a waiver, which is granted when you have successfully completed an equivalence course elsewhere (fully completed, not still pending).
 
 ## Is this course theoretical or practical?
 
