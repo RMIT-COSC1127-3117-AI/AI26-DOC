@@ -100,9 +100,13 @@ Finally, the course if foundational and it includes significant theoretical and 
 
 Being a last year Bachelor of CS course, this course basically relies on 3 components: _analysis of algorithms and datastructures_, _discrete mathematics_, and _advanced programming_.
 
-To achieve this, the course has [COSC1285/2123 Algorithms & Analysis](http://www1.rmit.edu.au/courses/004302) (A&A) as a MUST ENFORCED pre-requisite:
+To achieve this, the course has [COSC1285/2123 Algorithms & Analysis](http://www1.rmit.edu.au/courses/004302) (A&A) as an ENFORCED pre-requisite:
 
 ![](imgs/pre-reqs-AI.png)
+
+
+> [!NOTE]
+> If you are enrolled in post-grad **Master of AI**, you are allowed, by the specific design of that program and your previous background, to take A&A concurrently with AI (co-requisite). 
 
 In turn, to take (and pass) A&A, one needs to complete an advanced (second or third course) programming course and a course in discrete mathematics:
 
@@ -110,7 +114,7 @@ In turn, to take (and pass) A&A, one needs to complete an advanced (second or th
 
 For Bachelor in CS, for which AI is core course, the pre-reqs are already built-in in the program structure.
 
-When you take the course as an option/elective (i.e., it is not core in your program), you need to **plan ahead** and make sure that _"you ensure you have completed the pre-requisites"_ as stated above in the program guide. The alternative is to ask for an exception waiver of the pre-req by providing evidence that you have taken (and passed) an equivalent course elsewhere. Please contact your Program Manager to understand who to submit that request. 
+When you take the course as an option/elective (i.e., it is not core in your program), you need to **plan ahead** and make sure that _"you ensure you have completed the pre-requisites"_ as stated above in the program guide. The other option is to [apply for an exception _waiver_](https://www.rmit.edu.au/students/my-course/program-course-information/course-requisites) of the pre-req by providing evidence that you have taken (and passed!) an equivalent course elsewhere. Please follow the formal process for the waiver request (not via email!) or contact your Program Manager to understand who and what to submit that request. 
   
 > [!CAUTION]
 > You MUST NOT take this course if you have not taken and passed the pre-reqs. Doing so not only puts you at a disadvantage and breaches the course prerequisites, but also imposes additional and unfair workload on the teaching team. Please contact the course coordinator if you have any questions about prerequisites to discuss.
