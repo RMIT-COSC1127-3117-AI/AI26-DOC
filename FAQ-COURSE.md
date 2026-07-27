@@ -662,13 +662,13 @@ We do not run one-to-one specialised tests for students; that would be totally u
 
 ## I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?
 
-Unless the SPC is a short extension, it will generally be carried out as an _Equivalent Assessment_ at a later stage -- generally a set of paper-based exercises with the instructor on campus or an interview. An Equivalent Assessment aims to assess the same content and level, but will generally be a different task in a different format:
+Unless the SPC is a short extension, it will generally be carried out as an _Equivalent Assessment_ at a later stage -- typically a set of paper-based exercises with the instructor on campus, or an interview. An Equivalent Assessment aims to assess the same content and level, but will generally be a different task in a different format:
 
 ![SPC EQV](imgs/RMIT-equivalent-assessment-SPC.jpg)
 
-In most cases, it will involve be a set of exercises carried out on pen and paper.
+In most cases, it will involve a set of exercises carried out on pen and paper.
 
-You will be informed of teh date and time, and format, of the Equivalent Assessment in advance, at least 5 working days before. The student must make sure they make themselves available for it.
+You will be informed of the date, time, and format of the Equivalent Assessment in advance, at least five (5) working days before it takes place. ✅ It is the student's responsibility to ensure they are available for it. 👍
 
 ## The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?
 
