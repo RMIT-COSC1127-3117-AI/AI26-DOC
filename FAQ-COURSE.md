@@ -59,7 +59,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [Can I get an extension for the assessment?](#can-i-get-an-extension-for-the-assessment)
   - [I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?](#i-am-very-busy-with-other-commitments-work-other-subjects-travel-etc-and-may-not-be-able-to-make-the-deadline-can-i-get-an-extension)
   - [I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?](#i-am-not-available-for-the-exercise-challenge-ec-or-take-home-exercises-the-can-i-take-them-some-other-time)
-  - [I have a SPC for an assessment, how does it work?](#i-have-a-spc-for-an-assessment-how-does-it-work)
+  - [I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?](#i-have-a-spc-for-an-assessment-how-does-it-work-what-is-an-equivalent-assessment)
   - [The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?](#the-room-for-the-time-based-and-timetabled-assessment-is-not-comfortable-can-we-get-a-larger-room)
   - [Why are THE/EC not fully done on paper, or done online at home?](#why-are-theec-not-fully-done-on-paper-or-done-online-at-home)
   - [In a code assignment/project, how do I make sure I do not go against academic integrity?](#in-a-code-assignmentproject-how-do-i-make-sure-i-do-not-go-against-academic-integrity)
@@ -90,7 +90,7 @@ This is an introduction course to Artificial Intelligence (AI). It is a **breath
 > [!NOTE]
 > Machine Learning (ML) is one of the many sub-areas of AI and there is only a small component on ML, concretely we only see Reinforcement Learning (RL). If you are interested in ML itself, there are other courses that cover that (Comp ML, Deep Learning).
 
-In the course, we see (part of) the landscape of AI, but we do not dive much into any of the topics. Different follow-up courses, like Computational Machine Learning, Intelligent Decision Making, Programming Robots, Deep Learning or Evolutionary Computation go deeper on specific areas. 
+In the course, we see (part of) the landscape of AI, but we do not dive much into any of the topics. Different follow-up courses, like Computational Machine Learning, Intelligent Decision Making, Programming Robots, Deep Learning or Evolutionary Computation go deeper on specific areas.
 
 The breath-oriented style means we cover a lot and hence we jump from one topic of another, which means it is super important to stay in sync and don't fall behind. 😉
 
@@ -106,7 +106,7 @@ To achieve this, the course has [COSC1285/2123 Algorithms & Analysis](http://www
 
 
 > [!NOTE]
-> If you are enrolled in post-grad **Master of AI**, you are allowed, by the specific design of that program and your previous background, to take A&A concurrently with AI (co-requisite). 
+> If you are enrolled in post-grad **Master of AI**, you are allowed, by the specific design of that program and your previous background, to take A&A concurrently with AI (co-requisite).
 
 In turn, to take (and pass) A&A, one needs to complete an advanced (second or third course) programming course and a course in discrete mathematics:
 
@@ -114,8 +114,8 @@ In turn, to take (and pass) A&A, one needs to complete an advanced (second or th
 
 For Bachelor in CS, for which AI is core course, the pre-reqs are already built-in in the program structure.
 
-When you take the course as an option/elective (i.e., it is not core in your program), you need to **plan ahead** and make sure that _"you ensure you have completed the pre-requisites"_ as stated above in the program guide. The other option is to [apply for an exception _waiver_](https://www.rmit.edu.au/students/my-course/program-course-information/course-requisites) of the pre-req by providing evidence that you have taken (and passed!) an equivalent course elsewhere. Please follow the formal process for the waiver request (not via email!) or contact your Program Manager to understand who and what to submit that request. 
-  
+When you take the course as an option/elective (i.e., it is not core in your program), you need to **plan ahead** and make sure that _"you ensure you have completed the pre-requisites"_ as stated above in the program guide. The other option is to [apply for an exception _waiver_](https://www.rmit.edu.au/students/my-course/program-course-information/course-requisites) of the pre-req by providing evidence that you have taken (and passed!) an equivalent course elsewhere. Please follow the formal process for the waiver request (not via email!) or contact your Program Manager to understand who and what to submit that request.
+
 > [!CAUTION]
 > You MUST NOT take this course if you have not taken and passed the pre-reqs. Doing so not only puts you at a disadvantage and breaches the course prerequisites, but also imposes additional and unfair workload on the teaching team. Please contact the course coordinator if you have any questions about prerequisites to discuss.
 
@@ -149,9 +149,9 @@ Follow the instructions on [how to apply for an enforced requisite waiver](https
 
 ## Is this course theoretical or practical?
 
-**Both!** I would say that it is ~60% theoretical/conceptual and ~40% practical. 
+**Both!** I would say that it is ~60% theoretical/conceptual and ~40% practical.
 
-There will be significant programming, but to realise theoretical notions and AI algorithmic techniques, including non-classical "mainstream" programming. 
+There will be significant programming, but to realise theoretical notions and AI algorithmic techniques, including non-classical "mainstream" programming.
 
 The course is not a programming course, and its objective is that you truly understand the theory and concepts behind standard AI algorithms.
 
@@ -193,7 +193,7 @@ One initial test is to read Part I.1 and I.2 (Sets & Logic) in the Book of Proof
 
 and see how it goes. If you don't feel comfortable with that, then this may be a signal 📶
 
-Another objective reference of difficulty could be the grade distribution. In general, **the course has had ~10% HDs and ~30% NN failures**. So, it is hard to get an HD and if one doesn't do the work to a good standard it is easy to fail it. 🤷 
+Another objective reference of difficulty could be the grade distribution. In general, **the course has had ~10% HDs and ~30% NN failures**. So, it is hard to get an HD and if one doesn't do the work to a good standard it is easy to fail it. 🤷
 
 These were the results for 2025 edition:
 
@@ -209,11 +209,11 @@ Remember you can also check what other student said about the course, refer to [
 
 The AI course is related to at least:
 
-1. **Math courses:** AI uses math as the main tool, both to model problems and solve them. 
+1. **Math courses:** AI uses math as the main tool, both to model problems and solve them.
 2. **Algorithms & Analysis:** AI uses algorithms to solve problems, and it is important to understand the usual algorithmic techniques (e.g., dynamic programming, graph algorithms, divide-and-conquer, etc.) as well as the analysis of them, such as asymptotic complexity of algorithms with Big-O notation.
-3. **Computing Theory:** AI touches on ver difficult or (almost) impossible computational problems, so it is important to understand the the notion of computability, the limits of computation, and the complexity of problems (e.g., P and NP). 
+3. **Computing Theory:** AI touches on ver difficult or (almost) impossible computational problems, so it is important to understand the the notion of computability, the limits of computation, and the complexity of problems (e.g., P and NP).
 
-The natural progression is (MATH + PROGRAMMING) --> ALGORITHMS & ANALYSIS --> Computing Theory --> AI.   
+The natural progression is (MATH + PROGRAMMING) --> ALGORITHMS & ANALYSIS --> Computing Theory --> AI.
 
 ## What did other student who took the course say about it?
 
@@ -223,15 +223,15 @@ Check [this question](#can-i-know-what-other-students-though-about-idm-and-the-t
 
 ## Communication policy: I have a question, can I email you?
 
-**Communication/email policy:** Except for personal issues, _all_ electronic communication must be directed to the [EdStem Discussion Forum][EDSTEM]. 
+**Communication/email policy:** Except for personal issues, _all_ electronic communication must be directed to the [EdStem Discussion Forum][EDSTEM].
 
-I only use email for limited communications regarding **personal circumstances** (in which case email is just used to arrange a face-to-face meeting). In particular, I will not respond by e-mail to any requests to clarify lecture, tutorial, assessment, or administration questions. 
+I only use email for limited communications regarding **personal circumstances** (in which case email is just used to arrange a face-to-face meeting). In particular, I will not respond by e-mail to any requests to clarify lecture, tutorial, assessment, or administration questions.
 
 Please use lectures, workshops/tutorials, and labs first, and discussion forum second, for all such questions so that a _fair course is run_ and all other fellow students can benefit as well: **_sharing is caring_**.
 
 Do not be afraid to post any question, no question is stupid! Help us to help you 🫵!
 
-Said so, your questions need to professional and respectful, properly formulated and, importantly, show you have done your part. Just asking for “help” or for solutions/insights on assignments is not good, as it shows little or no effort. We are here to help you learn, not to help you collect solutions or answers. 
+Said so, your questions need to professional and respectful, properly formulated and, importantly, show you have done your part. Just asking for “help” or for solutions/insights on assignments is not good, as it shows little or no effort. We are here to help you learn, not to help you collect solutions or answers.
 
 >[!IMPRORTANT]
 > It is important you follow proper the [Forum Etiquette][FORUM-ETIQUETTE]; please read the 13 points there before posting: do not make us tell you to read it. 😉
@@ -244,7 +244,7 @@ Check [Course Communication Policy here][COM_POLICY]
 
 **Of course!** I am happy to talk to you face-to-face and without a keyboard in the middle! Workshops are the best place for this course, I am there 3+ hours. If you need more privacy (e.g., discuss personal matters), then please send me an email and we will arrange an appointment in my office, no problem!
 
-However, if what you are after is technical support with the course, then you should use the plenty of support already available in workshop sessions, that is exactly where we have tutors ready to help in a one-to-one fashion. Go and ask your question there, **help us to help you!** Of course, simple question and clarifications can also be asked in the course forum! So plenty of opportunities to get help. 
+However, if what you are after is technical support with the course, then you should use the plenty of support already available in workshop sessions, that is exactly where we have tutors ready to help in a one-to-one fashion. Go and ask your question there, **help us to help you!** Of course, simple question and clarifications can also be asked in the course forum! So plenty of opportunities to get help.
 
 ## I work outside and have other commitments, should I take this course?
 
@@ -368,7 +368,7 @@ Here are some guidelines you should follow:
 
 ## How should we use the Discussion Forum?
 
-In general, the forum is a place to enquire about _specific_ issues you may be struggling on, clarifications, or things that you are curious about. The forum can also be used to share interesting things related to the course that you think other students may like. 
+In general, the forum is a place to enquire about _specific_ issues you may be struggling on, clarifications, or things that you are curious about. The forum can also be used to share interesting things related to the course that you think other students may like.
 
 In general, your posts should have a clear and precise question and not be too long. If your post is just an open question or something not related to the course, then it probably should not be a post at all. The forum should not be used to post (your) solutions or processes, or to ask for them.
 
@@ -461,11 +461,11 @@ That said, when the slides do contain useful information (e.g., news or specific
 
 Lectorials are automatically recorded via **Echo360**, yes.  That said, there is ALWAYS plenty of space in the room (which is great!), so **we invite and encourage students to attend in person**, rather than watch the recording later, mostly for three reasons:
 
-1. The recordings are **out of my control** 🤷, and in the past there have been numerous issues, including missing recordings, muted recordings, noisy or very low audio, no video, truncated videos, missing projection, etc.  
+1. The recordings are **out of my control** 🤷, and in the past there have been numerous issues, including missing recordings, muted recordings, noisy or very low audio, no video, truncated videos, missing projection, etc.
 2. There can also be privacy issues (e.g., students asking personal questions close to the mic) that need to be addressed before a recording goes out safely, so recordings will not be available right away, but after they have been reviewed and curated.
 3. More importantly, recordings are **not** a professionally produced/curated video like the ones you would find in a polished online course. They are a raw capture of a live, in-person session, and watching a static camera feed of someone talking for two hours, alone, on your laptop, is a very different (and much more boring) experience than "being in the room" 😫. Note that in the lecture, the instructor walks around the class and interacts with students (whose voices will not be recorded), and there will be gaps, etc. Very boring indeed to watch raw...
 
-In my experience, most students who plan to "just watch the recording later" end up dropping the ball: the recording sits unwatched, or gets abandoned a few minutes in, and the content never actually gets absorbed. 
+In my experience, most students who plan to "just watch the recording later" end up dropping the ball: the recording sits unwatched, or gets abandoned a few minutes in, and the content never actually gets absorbed.
 
 Which brings us to the next question...
 
@@ -660,13 +660,19 @@ Dates for assessments are provided well in advance from the start of the course,
 
 We do not run one-to-one specialised tests for students; that would be totally unfeasible with a course of 200+ students (like any assessment, designing a class test is not an easy task -- it takes a **lot** of work).
 
-## I have a SPC for an assessment, how does it work?
+## I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?
 
-Unless the SPC is a short extension, it will generally be carried out as an _Equivalent Assessment_ at a later stage -- a set of paper-based exercises with the instructor on campus. An Equivalent Assessment covers the same content and the same expectations, but may be done in a different format. The student must make sure they make themselves available for it. In most cases, it will basically be a set of exercises carried out on pen and paper (even if the original assessment was a programming task).
+Unless the SPC is a short extension, it will generally be carried out as an _Equivalent Assessment_ at a later stage -- generally a set of paper-based exercises with the instructor on campus or an interview. An Equivalent Assessment aims to assess the same content and level, but will generally be a different task in a different format:
+
+![SPC EQV](imgs/RMIT-equivalent-assessment-SPC.jpg)
+
+In most cases, it will involve be a set of exercises carried out on pen and paper.
+
+You will be informed of teh date and time, and format, of the Equivalent Assessment in advance, at least 5 working days before. The student must make sure they make themselves available for it.
 
 ## The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?
 
-I was already able to book one of the largest rooms available at RMIT. Initially we were given an even smaller room. While possibly not ideal or perfect, the room and seats are reasonable. 
+I was already able to book one of the largest rooms available at RMIT. Initially we were given an even smaller room. While possibly not ideal or perfect, the room and seats are reasonable.
 
 Note that centrally organised assessments are not run anymore and, as a results, _academics are asked to organised it all by themselves: room, paper, set-up, invigilation, collection, etc. This is the best I could do 🤷. I hope you could appreciate this is far from a trivial task for 400+ courses. I have been requesting centrally organised assessments, and I suspect the University will be more receptive to requests from students than from me, so I encourage you to voice your concerns on the matter (if anything for fellow future students!)
 
@@ -678,7 +684,7 @@ For example, programming projects of the sort we use may not be able to test hig
 
 Because of all these trade-offs, and based on experience over many years, we've designed a mix of assessments _within the resources available_ that includes both _practical offline work_ (via several projects) and _in-person, targeted technical challenges_. We strongly believe this set-up is comprehensive, engaging, and fair, though we will always recognise that no assessment is perfect, and we have been adapting our assessments based on experience and changes in context (including resourcing and fairness). _We are also open to constructive suggestions for consideration_ (it is always best if they've been thought through in the context of trade-offs and resourcing implications, of course). In fact, we usually gauge students' perspectives on each assessment. While there are definitely other possible frameworks, they all have to deal with trade-offs: there is no free lunch.
 
-Finally, TEQSA, the Australian regulator agency for universities, has recently published a set of [guidelines for assessment reform](https://www.teqsa.gov.au/sites/default/files/2025-09/enacting-assessment-reform-in-a-time-of-artificial-intelligence.pdf), which calls (page 9) for at least one _secured_, _controlled_, and _hurdle-type_ assessment per course. This provides assurance that learning outcomes are assessed in a manner that "allows valid insight into student learning, addressing concerns about academic integrity in a direct and tangible way.". 
+Finally, TEQSA, the Australian regulator agency for universities, has recently published a set of [guidelines for assessment reform](https://www.teqsa.gov.au/sites/default/files/2025-09/enacting-assessment-reform-in-a-time-of-artificial-intelligence.pdf), which calls (page 9) for at least one _secured_, _controlled_, and _hurdle-type_ assessment per course. This provides assurance that learning outcomes are assessed in a manner that "allows valid insight into student learning, addressing concerns about academic integrity in a direct and tangible way.".
 
 We hope this provides a bit more context, and we're happy to hear your thoughts. 😄
 
@@ -733,8 +739,8 @@ So, the three main issues I've repeatedly seen that amount to poor-quality study
    - Being able to follow how others solve a problem is a useful first step, but definitely does not imply a good level of understanding and skill.
    - It is always fairly easy to recognise a good play or move from a sports player, or a good piece of art from an artist. It's a very different thing to be able to make that play, or create that art, yourself. 🙂
    - And for those who took Computing Theory: remember the NP class -- it's easy to _check_ a solution, but much, much harder to _build_ one.
- 
-Finally, two great resources to check. 
+
+Finally, two great resources to check.
 
 📹 First, watch the video ["Harvard Students Don’t Study Harder — They Do THIS Instead"](https://youtu.be/CefO5lp2wOk?si=WRrsAz_1OmM_nUBe).
 
@@ -812,16 +818,16 @@ Yes! Regardless of how universities ultimately use student feedback, in my view 
 
 Knowing what previous students experienced helps prospective students set realistic expectations, prepare appropriately, and approach the course with the right mindset. In simple terms:
 
-- *Would you recommend this course to a friend?*  
+- *Would you recommend this course to a friend?*
 - *Would you recommend the lecturer?*
 
-While survey results are not always shared widely with students, **I personally make my previous course results available** so you can see how earlier cohorts perceived the course and teaching.  
+While survey results are not always shared widely with students, **I personally make my previous course results available** so you can see how earlier cohorts perceived the course and teaching.
 
 👉 [Here are the results for this course](FAQ-REVIEWS.md).
 
 In particular, **I value feedback from students who actively engaged with the course** -- attending lectures, participating in tutorials, and using the course resources. I am interested in understanding:
 
-- what worked well and supported your learning (so it can be maintained or strengthened), and  
+- what worked well and supported your learning (so it can be maintained or strengthened), and
 - where improvements or changes could make the course better for future students.
 
 👍 Constructive positive/negative feedback helps improve the course in meaningful ways.
@@ -831,7 +837,7 @@ In particular, **I value feedback from students who actively engaged with the co
 
 ### Some links on the topic of student course survey
 
-**Want to know more?** 
+**Want to know more?**
 
 There has been extensive and interesting debate about whether course surveys achieve their intended goals, or whether they sometimes backfire by encouraging easier courses aimed at avoiding negative feedback, potentially contributing to grade inflation and weaker learning outcomes.
 
