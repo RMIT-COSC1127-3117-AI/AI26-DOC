@@ -594,9 +594,11 @@ One important skill (a very important one!) is being able to handle new problems
 
 ## I enrolled late into the course, can I get an extension?
 
-Enrolling and entering the course late does not, by itself, provide grounds for an extension, and extensions will not be granted for that reason.
+Enrolling and entering the course late does not, by itself, provide grounds for an extension, and special consideration extensions will not be granted for that reason:
 
-When a student enrols late, it is **their** responsibility not only to catch up by themselves, but also to deal with any impact on assessments that may have already occurred or may be on the way. Assessments are run according to the course schedule for everyone; there are no multiple starting points depending on when a student enrolled.
+![](imgs/no-spc-late-enrollment.jpg)
+
+When a student enrols late, it is **their** responsibility not only to catch up by themselves (using the many available resources provided), but also to deal with any impact on assessments that may have already occurred or may be on the way. Assessments are run according to the course schedule for everyone; there are no multiple starting points depending on when a student enrolled.
 
 Because of this, it is essential that, before enrolling late, students discuss the potential impact, consequences, and risks with their Program Manager, and obtain explicit permission to do so.
 
