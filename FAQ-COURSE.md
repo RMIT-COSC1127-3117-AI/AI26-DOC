@@ -804,6 +804,7 @@ In general:
 - The text in the Silence Policy outline applies to "posts about this assignment," which not only includes questions about the theoretical content and assignment specification, but **also** logistical questions relating to submissions, consultation times, etc.
 - The Silence Policy applies to usage of the **entire forum**, not just to questions in a certain category (e.g. the **Projects – P0** category); the policy relates to the content of the post, not the category it's posted in. Teaching staff reserve the right to modify tags as appropriate.
 
+
 # EXTRAS
 
 ## Cannot access the Google Form, says I need permission
@@ -816,7 +817,7 @@ then chances are you are not correctly logged into your RMIT account or you are 
 
 ## Questions about GIT?
 
-We have a dedicated [GIT FAQ](FAQ-GIT.md) for you.. :-)
+We have a dedicated [GIT FAQ](FAQ-GIT.md) for you.. 👍
 
 ## Course Survey Experience: what? why?
 
