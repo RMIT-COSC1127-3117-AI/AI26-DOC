@@ -68,7 +68,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
   - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
   - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
-  - [Am I still allowed to use the EdStem forum during a Silence Policy period?](am-i-still-allowed-to-use-the-edstem-forum-during-a-silence-policy-period)
+  - [Am I still allowed to use the EdStem forum during a Silence Policy period?](#am-i-still-allowed-to-use-the-edstem-forum-during-a-silence-policy-period)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
   - [Questions about GIT?](#questions-about-git)
