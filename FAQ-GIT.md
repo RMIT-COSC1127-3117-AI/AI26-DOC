@@ -30,6 +30,7 @@ These are common questions and issues on Git and GitHub.
     - [My submission does not appear in Classroom50](#my-submission-does-not-appear-in-classroom50)
     - [Classroom50 is blocked](#classroom50-is-blocked)
     - [Do I need to create a new repository for each project?](#do-i-need-to-create-a-new-repository-for-each-project)
+    - [Autograding in Classroom50 is failing, what should I do?](#autograding-in-classroom50-is-failing-what-should-i-do)
 
 ## Git, GitHub, what is that?
 
@@ -305,3 +306,8 @@ This may be an issue, depending on your ISP. We are unclear on the specifics bec
 
 **No.** YOU DO NOT CREATE ANY REPO BY YOURSELF. All template repositories are automatically created by our Classrrom50 infrastructure. Any repository that you create without our explicit written permission is not valid and will be deleted by teaching staff.
 
+### Autograding in Classroom50 is failing, what should I do?
+
+Nothing, and never run any workflow as it will use all the credits we have. We are NOT autograding in GitHub at all, all marking is done manually by teaching staff outside GitHub.
+
+You should run the feedback autograding locally in your machine, not in GitHub.
