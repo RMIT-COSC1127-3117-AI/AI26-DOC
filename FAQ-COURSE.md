@@ -68,6 +68,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
   - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
   - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
+  - [Am I still allowed to use the EdStem forum during a Silence Policy period?](am-i-still-allowed-to-use-the-edstem-forum-during-a-silence-policy-period)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
   - [Questions about GIT?](#questions-about-git)
@@ -791,6 +792,17 @@ Please submit your review request by filling out and emailing the **Review of As
 ## When is the SPC for the final assessment? 📆
 
 SPC for Weeks 13+ assessments will be done during the **deferred assessment period**, which is usually in early December (after the official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] for the year to find out exactly when those assessments will be running. It's great that you're thinking ahead on this — **good luck!** 🍀
+
+## Am I still allowed to use the EdStem forum during a Silence Policy period?
+
+> [!IMPORTANT]
+> It is **critical** to understand that evenings and weekends (i.e. close-of-business on Friday through to Monday morning) are non-working hours, and that students should not expect teaching staff to be responsive during those periods. If teaching staff are active during those times, it's only because they are being generous; this needs to be seen as "extra" and "optional", _not_ as an expectation or demand. This is always the case, regardless of whether or not a Silence Policy is active.
+
+In general:
+
+- You are still welcome to post in the EdStem forum, so long as you understand that will not be accepted or responded to by teaching staff until after the Silence Policy period elapses. That being said, it is probably not good etiquette to post during Silence Policy period.
+- The text in the Silence Policy outline applies to "posts about this assignment," which not only includes questions about the theoretical content and assignment specification, but **also** logistical questions relating to submissions, consultation times, etc.
+- The Silence Policy applies to usage of the **entire forum**, not just to questions in a certain category (e.g. the **Projects – P0** category); the policy relates to the content of the post, not the category it's posted in. Teaching staff reserve the right to modify tags as appropriate.
 
 # EXTRAS
 
