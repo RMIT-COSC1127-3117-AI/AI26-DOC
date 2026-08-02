@@ -51,18 +51,18 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Do we need to do all the "`*** YOUR CODE HERE ***`" method?](#do-we-need-to-do-all-the--your-code-here--method)
   - [Can I import standard libraries?](#can-i-import-standard-libraries)
   - [Do we need to use `PriorityQueueWithFunction`, or can we use `PriorityQueue` with a helper function that determines the priority?](#do-we-need-to-use-priorityqueuewithfunction-or-can-we-use-priorityqueue-with-a-helper-function-that-determines-the-priority)
-  - [For Q1, Q3 and Q4, do they have to use a priority queue?](#for-q1-q3-and-q4-do-they-have-to-use-a-priority-queue)
+  - [For Q1-Q4, do they have to use a priority queue?](#for-q1-q4-do-they-have-to-use-a-priority-queue)
   - [Do I need to use the data structure in `util.py` (e.g., `PriorityQueue`)?](#do-i-need-to-use-the-data-structure-in-utilpy-eg-priorityqueue)
   - [What actions should I return in the search algorithms?](#what-actions-should-i-return-in-the-search-algorithms)
   - [How can I represent a plan with no actions?](#how-can-i-represent-a-plan-with-no-actions)
   - [What counts as an expansion? I am getting too many expansions....](#what-counts-as-an-expansion-i-am-getting-too-many-expansions)
-  - [My solution works manually for `tinaMaze` but the authograder fails. The state format used in the autogarders tests are different from the Pacman game's in `tinaMaze`. What happens here?](#my-solution-works-manually-for-tinamaze-but-the-authograder-fails-the-state-format-used-in-the-autogarders-tests-are-different-from-the-pacman-games-in-tinamaze-what-happens-here)
+  - [My solution works manually for `tinaMaze` but the autograder fails. The state format used in the autogarders tests are different from the Pacman game's in `tinaMaze`. What happens here?](#my-solution-works-manually-for-tinamaze-but-the-autograder-fails-the-state-format-used-in-the-autogarders-tests-are-different-from-the-pacman-games-in-tinamaze-what-happens-here)
   - [In Q7, can I take a heuristic from elsewhere (e.g., Google) and implement it?](#in-q7-can-i-take-a-heuristic-from-elsewhere-eg-google-and-implement-it)
   - [In Q7, what timeout will be used? How do I know what timeout should I use?](#in-q7-what-timeout-will-be-used-how-do-i-know-what-timeout-should-i-use)
   - [Are we allowed to use `mazeDistance` (or a modified version) when calculating our heuristic?](#are-we-allowed-to-use-mazedistance-or-a-modified-version-when-calculating-our-heuristic)
-  - [Can we create a new BFS for the part 5? My implementation doesn't fit with my new state representation!](#can-we-create-a-new-bfs-for-the-part-5-my-implementation-doesnt-fit-with-my-new-state-representation)
+  - [Can we create a new BFS for the Part/Question X? My implementation doesn't fit with my new state representation!](#can-we-create-a-new-bfs-for-the-partquestion-x-my-implementation-doesnt-fit-with-my-new-state-representation)
   - [In the feedback autograder, what does `expanded_states` means?](#in-the-feedback-autograder-what-does-expanded_states-means)
-  - [For Q9 cycle checking, should we check only a few levels, or all the way up to the root node?](#for-q9-cycle-checking-should-we-check-only-a-few-levels-or-all-the-way-up-to-the-root-node)
+  - [For IDS cycle checking, should we check only a few levels, or all the way up to the root node?](#for-ids-cycle-checking-should-we-check-only-a-few-levels-or-all-the-way-up-to-the-root-node)
   - [In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?](#in-q6-or-q7-i-am-getting-fail-inconsistent-heuristic-path-for-a-test-case-what-does-this-mean)
 
 
@@ -559,7 +559,7 @@ The weight; this project was made in the US so uses US terminology, not UK.
 
 Not really. Just those parts that are relevant for the questions in the assessment.
 
-Some parts are extension that may not be used in a particular edition of the course. For example, in the 2022 edition you don't have to complete `capsuleProblemHeuristic`.
+Some parts may not be relevant to your tasks and thus do not need to be completed.
 
 ## Can I import standard libraries?
 
@@ -567,15 +567,15 @@ Yes, as long as they are reasonable and do not contradict the spec. For example,
 
 ## Do we need to use `PriorityQueueWithFunction`, or can we use `PriorityQueue` with a helper function that determines the priority?
 
-You don't have to use `PriorityQueueWithFunction` specifically for any question, if you would rather use `PriorityQueue` that's perfectly fine.
+You don't have to use `PriorityQueueWithFunction` specifically for any question, but it will make your life much easier and less error-prone. Our algorithms are designed to work with such a data structure, and it is a good idea to use it.
 
-## For Q1, Q3 and Q4, do they have to use a priority queue?
+## For Q1-Q4, do they have to use a priority queue?
 
 As you wish, as long as the behaviour of the pseudo code that is to be implemented is matched.  Imagine I said that I was going to use a priority queue where the priority of each item was equal to the priority of the previous item added + 1. Is this equivalent to another data structure? If I can't tell the difference in the pen and paper behaviour of these two data structures, then you can use either.
 
 ## Do I need to use the data structure in `util.py` (e.g., `PriorityQueue`)?
 
-Not really. You can if you want, but you can implement yours, as long as they are included in the only files you are allowed to modify.
+Not really. You can if you want, but you can implement yours, as long as they are included in the only files you are allowed to modify. Again, what we provided should come very handy if you know what you are doing.
 
 ## What actions should I return in the search algorithms?
 
@@ -604,14 +604,14 @@ So be careful not using that function for more than what is needed. When debuggi
 
 One can implement the various search algorithms (e.g., DFS) doing one call to `getSuccessor()` per loop/node, as in the pseudo-code (e.g., book or slides).
 
-## My solution works manually for `tinaMaze` but the authograder fails. The state format used in the autogarders tests are different from the Pacman game's in `tinaMaze`. What happens here?
+## My solution works manually for `tinaMaze` but the autograder fails. The state format used in the autogarders tests are different from the Pacman game's in `tinaMaze`. What happens here?
 
 Indeed, the test cases often have atomic states instead of `(x,y)` coordinates, but this should not affect your code at all. From the algorithms perspective, a state is (just) a "state", regardless of the representation. The autograder often checks corner cases which are not tested by the standard
 mazes, which may be why you see it failing (despite your manual cases working).
 
 ## In Q7, can I take a heuristic from elsewhere (e.g., Google) and implement it?
 
-The objective of the exercise is NOT to program in Python a solution that somebody else has invented/created. The fact is that we are not testing Python here or even coding skills per se alone. We are learning how to come up/create good heuristics ourselves, by thinking about the domain at hand and the way search works.
+The objective of the exercise is NOT to program in Python a solution that _somebody else_ has invented/created. We are not testing Python or even coding skills per se alone. We are learning how to come up/create good heuristics **ourselves**, by thinking about the domain at hand and the way search works.
 
 What we are interested in assessing for this question is your ability to understand what heuristics are and design them yourself. As a result, while searching online for heuristics **in general** would be fine (but we doubt useful here if you read the book), searching for a heuristic, even at a conceptual level, for this particular problem is definitively **not** OK.
 
@@ -687,7 +687,7 @@ Yes, you certainly can, which is why it says the following in the comments:
 
 Be careful though - it is easy to imagine that if you call a function to do something, it is 'free', but if you look at the code in that function, you will soon realise that this function may take a lot of time itself. :-)
 
-## Can we create a new BFS for the part 5? My implementation doesn't fit with my new state representation!
+## Can we create a new BFS for the Part/Question X? My implementation doesn't fit with my new state representation!
 
 This is a good question. The answer is _no_ - you cannot and should not need to create a new BFS.
 
@@ -703,9 +703,9 @@ This issue is about the first task: _representation_.
 
 Basically, the number of times you have done expansion of nodes, that is, number of calls to `getSuccessors()`` method. Makes sense? :-)
 
-## For Q9 cycle checking, should we check only a few levels, or all the way up to the root node?
+## For IDS cycle checking, should we check only a few levels, or all the way up to the root node?
 
-While the book discusses both options, for project 1 you should implement a cycle check that goes all the way up to the initial state.
+While the book discusses both options, for this project you should implement a cycle check that goes all the way up to the initial state, that is why the algorithm says `Is-Cycle(node)`.
 
 ## In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?
 
