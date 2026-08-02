@@ -44,10 +44,10 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Should we remove this line `util.raiseNotDefined()` before starting our code or not? What does it do?](#should-we-remove-this-line-utilraisenotdefined-before-starting-our-code-or-not-what-does-it-do)
   - [My editor shows an error trying to import pacman module](#my-editor-shows-an-error-trying-to-import-pacman-module)
   - [The autograder says `FAIL: Exception raised ...` but I am not sure which test case failed](#the-autograder-says-fail-exception-raised--but-i-am-not-sure-which-test-case-failed)
-- [Project 0](#project-0)
+- [Project 0: Warm-up](#project-0-warm-up)
   - [Do we have to handle edge cases? For example, for the `shopSmart` function, what should we do if a fruit is _not_ present in one of the shops?](#do-we-have-to-handle-edge-cases-for-example-for-the-shopsmart-function-what-should-we-do-if-a-fruit-is-not-present-in-one-of-the-shops)
   - [Does the reference to 'pounds' in buyLotsOfFruit.py refer to weight (lb) or cost (£)?](#does-the-reference-to-pounds-in-buylotsoffruitpy-refer-to-weight-lb-or-cost-)
-- [Project 1: Search (Assessment)](#project-1-search-assessment)
+- [Project 1: Search](#project-1-search)
   - [Do we need to do all the "`*** YOUR CODE HERE ***`" method?](#do-we-need-to-do-all-the--your-code-here--method)
   - [Can I import standard libraries?](#can-i-import-standard-libraries)
   - [Do we need to use `PriorityQueueWithFunction`, or can we use `PriorityQueue` with a helper function that determines the priority?](#do-we-need-to-use-priorityqueuewithfunction-or-can-we-use-priorityqueue-with-a-helper-function-that-determines-the-priority)
@@ -64,7 +64,6 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [In the feedback autograder, what does `expanded_states` means?](#in-the-feedback-autograder-what-does-expanded_states-means)
   - [For IDS cycle checking, should we check only a few levels, or all the way up to the root node?](#for-ids-cycle-checking-should-we-check-only-a-few-levels-or-all-the-way-up-to-the-root-node)
   - [In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?](#in-q6-or-q7-i-am-getting-fail-inconsistent-heuristic-path-for-a-test-case-what-does-this-mean)
-
 
 -------------------------
 
@@ -530,7 +529,7 @@ Due to the structure of the autograder, it cannot tell which test threw the exce
 
 ![Exception raised by test 0-small-tree](imgs/exception_test.png)
 
-# Project 0
+# Project 0: Warm-up
 
 ## Do we have to handle edge cases? For example, for the `shopSmart` function, what should we do if a fruit is _not_ present in one of the shops?
 
@@ -553,7 +552,7 @@ One could import the function from Q2 and use that instead, but the function sig
 The weight; this project was made in the US so uses US terminology, not UK.
 
 -----------------
-# Project 1: Search (Assessment)
+# Project 1: Search
 
 ## Do we need to do all the "`*** YOUR CODE HERE ***`" method?
 
