@@ -270,7 +270,9 @@ In general, auditing means attending the lectorials, which arguably is what you 
 
 ## I am enrolled in COSC3117 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?
 
-Yes, no need to worry. This is just a Canvas "hack" for cross-listed courses. We maintain only one site (COSC1127's one), but everybody in the course can access it. No problem.
+Yes, no need to worry. This is just a Canvas "hack" for cross-listed courses so that both courses can be accessed from the same site. We maintain only one site (COSC1127's one), but everybody in the course can access it. No problem. Canvas does not dictate what course you are enrolled in, it is just a tool to access the course content. The official record of your enrolment is in RMIT's system, not Canvas.
+
+Once again, we are not following or using Canvas, so do not worry about it and just pay attention to the material and information in the EdStem forum.
 
 ## I enrolled late in the course, can you explain X, Y, and Z about the course? What should I do now?
 
