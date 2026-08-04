@@ -11,9 +11,13 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Project specification says "You should code your implementation only at the locations ...." . Does this mean that we can't create our custom classes outside the provided functions?](#project-specification-says-you-should-code-your-implementation-only-at-the-locations---does-this-mean-that-we-cant-create-our-custom-classes-outside-the-provided-functions)
   - [The feedback autograder says _"Your grades are NOT yet registered."_ What should I do to register?](#the-feedback-autograder-says-your-grades-are-not-yet-registered-what-should-i-do-to-register)
   - [Should I pass all the feedback autograder tests?](#should-i-pass-all-the-feedback-autograder-tests)
-  - [Why do we need to show good SE/GIT processes?](#why-do-we-need-to-show-good-segit-processes)
+- [Development Quality and GIT](#development-quality-and-git)
+  - [What is good SE development?](#what-is-good-se-development)
+  - [Do I just need to do 1 commit per question?](#do-i-just-need-to-do-1-commit-per-question)
+  - [What is the commit ratio? How is that used?](#what-is-the-commit-ratio-how-is-that-used)
+  - [But, why do we need to show good SE/GIT processes?](#but-why-do-we-need-to-show-good-segit-processes)
   - [Can I just add dummy/padding commits to have more commits?](#can-i-just-add-dummypadding-commits-to-have-more-commits)
-- [Questions about GIT?](#questions-about-git)
+  - [Technical questions about GIT?](#technical-questions-about-git)
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
   - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
@@ -105,15 +109,46 @@ We are aware that it can be a bit unforgiving to work with the automated test ha
 
 As recognised by students, the autograder is indeed a fantastic feedback before submission for you. It is the minimum expected and you have it right from the start, so use it!
 
-## Why do we need to show good SE/GIT processes?
+# Development Quality and GIT
+
+## What is good SE development?
+
+When doing your projects, there will be expectations on your development of your AI technique/solution; not just on "getting it right". This is usually explained under "Marking criteria" section in the assessment specification. Please read it and do not ignore it, as it will indeed be taking into account.
+
+Basically, your commit history needs to provide clear and easily accessible evidence of how you arrived at your solution for each question, not just the finished solution itself; that is, _the process_, not only the product. Of course, the final solution is important and has to work, but it is not _just_ that.
+
+You will also see there a link to our [SE-PRACTICE](https://github.com/RMIT-COSC1127-3117-AI/AI26-DOC/blob/main/SE-PRACTICES.md) document that details the expectations in details, as well as providing examples of good development. 👍
+
+## Do I just need to do 1 commit per question?
+
+**No!** It is not about 1 question --> 1 commit. As stated in the marking criteria:
+
+> The number and granularity of commits for each question should be proportional to its difficulty: a straightforward question may reasonably be a couple of commits, but a harder, multi-part question should show a trail of incremental commits reflecting the stages you went through (e.g., a first working version, followed by fixes, edge cases handled, and refinements).
+
+If a question takes an hour or many hours, even across different days, we expect to see multiple commits showing the progress. A bulk commit of hours or days of work is not evidence of your process and is not a good development practice.
+
+## What is the commit ratio? How is that used?
+
+The commit ratio is the number of commits you did divided by the (minimal) number of commits we expect to see in a minimal history. Note that the expected number of commits is often very low, so low that anything below that most surely is sign of poor progress.
+
+**We do check manually the repos and adjust accordingly**, the ratio is a good base proxy. If your ratio is 1+, then it should generally be OK, but is not guaranteed. Poor commit messages or unreasonable large commit history with many dummy commits will also be penalised. The **commit ratio is a proxy**, not a guarantee.
+
+Note that we also take into account the points achieved. If, for example, a solution achieved 50% of the points (for example because some questions were not done), then the expected number of commits is also halved (as it would be unreasonable to ask for the full number of commits when the marks were already not gained beforehand!).
+
+An extreme case would be 1 commit with the full solution. That is extremely poor development practice, and totally against all the guidelines. Such solution should attract close to zero marks, regardless of its performance. As in math, you need to _"show your workings"_.
+
+> [!Important]
+> The GitHub repo should not be seen as a "drive" where you dump your solution. We will not used GitHub as if it were Canvas where you upload a final .zip file with your solution. Instead, we use GitHub to show your development process, and hence we expect to see a good development history. The repo is not a "dumping ground" for your solution, it is a _**development history**_. And, in addition, you get to practice good version control which is mandatory in the industry today. So, it is a win-win situation for you: you get to practice good development and version control, and we get to see your development process. 👍
+
+## But, why do we need to show good SE/GIT processes?
 
 It is a fair question: _why don't we just care about the AI algorithm and that's it?_
 
 There are are least three main reasons to include SE and version control practices as part of the work and assessments of the course:
 
 - We want to see the _**process**_ towards your solution, not just the solution(s) to a question. We want to be able to see _evidence of student workings towards_ the final solution.
-    - This is **analogous to when we do Maths**: we do not want to see just the final answer, but also HOW you got to that answer.
-    - This process will include your intermediate and alternative solutions, your partial solutions, your bugs and fixes, your optimisations, your thought process, etc.
+  - This is **analogous to when we do Maths**: we do not want to see just the final answer, but also HOW you got to that answer.
+  - This process will include your intermediate and alternative solutions, your partial solutions, your bugs and fixes, your optimisations, your thought process, etc.
 - **Good development of AI techniques** (and software in general) is also super important today, and a place for learning. It is _the way AI software and solutions are developed these days_, the state-of-the-art. Hence, good SE practices, and particularly version control, is part of the overall training we promote in our courses, particularly in advanced courses.
 - Version Control contributes to CLO 5 (on develop _adequate_ AI solutions for problems) as well as CLO 6 (_communicate_ with the language of the field). Version control is not only the adequate way to develop complex software but also a way to communicate to others your work and solutions.
 
@@ -129,7 +164,8 @@ Hope this puts some context and rationale to the issue, and serves as a good lea
 
 That will not only show very poor SE practices (because dummy commits are not meaningful commits), but most importantly it may be deemed as a case of "_dishonest behavior to get an unfair advantage_", which is against the course Honours Code and can be a serious offense. One thing is to have poor SE practices, another thing is to attempt to cheat, so that should be out of the question! :-)
 
-# Questions about GIT?
+
+## Technical questions about GIT?
 
 We have a dedicated [GIT FAQ](FAQ-GIT.md) for you.. 👍
 
