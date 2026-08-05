@@ -61,10 +61,11 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?](#i-am-not-available-for-the-exercise-challenge-ec-or-take-home-exercises-the-can-i-take-them-some-other-time)
   - [I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?](#i-have-a-spc-for-an-assessment-how-does-it-work-what-is-an-equivalent-assessment)
   - [The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?](#the-room-for-the-time-based-and-timetabled-assessment-is-not-comfortable-can-we-get-a-larger-room)
-  - [Why are THE/EC not fully done on paper, or done online at home?](#why-are-theec-not-fully-done-on-paper-or-done-online-at-home)
+  - [Why are Exercise Challenges (Quizzes/Tests/Exams) not fully done on paper, or done online at home?](#why-are-exercise-challenges-quizzestestsexams-not-fully-done-on-paper-or-done-online-at-home)
   - [In a code assignment/project, how do I make sure I do not go against academic integrity?](#in-a-code-assignmentproject-how-do-i-make-sure-i-do-not-go-against-academic-integrity)
   - [Why did I get 57 in the assignment/project if it is just 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-just-5-of-the-course)
   - [How do I prepare for the final in-person assessment?](#how-do-i-prepare-for-the-final-in-person-assessment)
+  - [When will the Final Assessment be (and where)?](#when-will-the-final-assessment-be-and-where)
   - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
   - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
   - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
@@ -681,7 +682,7 @@ I was already able to book one of the largest rooms available at RMIT. Initially
 
 Note that centrally organised assessments are not run anymore and, as a results, _academics are asked to organised it all by themselves: room, paper, set-up, invigilation, collection, etc. This is the best I could do 🤷. I hope you could appreciate this is far from a trivial task for 400+ courses. I have been requesting centrally organised assessments, and I suspect the University will be more receptive to requests from students than from me, so I encourage you to voice your concerns on the matter (if anything for fellow future students!)
 
-## Why are THE/EC not fully done on paper, or done online at home?
+## Why are Exercise Challenges (Quizzes/Tests/Exams) not fully done on paper, or done online at home?
 
 In a nutshell, no assessment is perfect, and they all have resourcing and trade-off implications. It's not uncommon for students to be unaware of these.
 
@@ -766,6 +767,17 @@ Finally, two great resources to check.
 You'll notice that several of the tips overlap with what's discussed above, and reinforce that beyond just putting in time, you need to do it well -- with quality.
 
 All the best, and hope this helps! 🚀
+
+## When will the Final Assessment be (and where)?
+
+The final assessment will be held during the official RMIT **Semester Assessment period**, which is Weeks 14-16 (Week 13 is left for studying and reviewing). Please check the [RMIT Academic Calendar][RMIT-CALENDAR] for the exact dates of the assessment period 📆.
+
+The exact date and location will be communicated before Week 10, once confirmed by central office.
+
+To make things easier for everyone, I always ask the University to schedule the final assessment on Week 14, at the same day and time as our course lectures — but this is not guaranteed. The University may change the date and time, and we will have to follow their decision.
+
+> [!IMPORTANT]
+> Students must make themselves available for the final assessment during the official RMIT assessment period. This is a standard requirement across all universities, and students are expected to plan their schedules accordingly. There is no replacement or alternative assessment for students who are unavailable during this period, except in approved Special Consideration (SPC) cases or equivalent assessments, which will be held in-person during the official **Semester deferred assessment period** (check the academic calendar).
 
 ## I will not be around for an in-person assessment, can I take it online or before/after?
 

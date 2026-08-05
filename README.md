@@ -18,5 +18,4 @@ This repo is continuously updated. Please check back often. If you find a bug (e
  <p align="center"> 
     <img src="imgs/faq.jpg">
  </p>
-
-
+ 
