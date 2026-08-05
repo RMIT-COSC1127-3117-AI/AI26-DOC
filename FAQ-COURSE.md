@@ -50,26 +50,28 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [I cannot enroll in any tutorial, they are all full. What should I do?](#i-cannot-enroll-in-any-tutorial-they-are-all-full-what-should-i-do)
   - [I cannot attend my tutorial session, can I change to another session?](#i-cannot-attend-my-tutorial-session-can-i-change-to-another-session)
 - [ASSESSMENTS](#assessments)
-  - [Are assignments individual or in groups?](#are-assignments-individual-or-in-groups)
   - [I have not received the result/feedback of my assessment, why?](#i-have-not-received-the-resultfeedback-of-my-assessment-why)
   - [I was never asked these questions in an assignment or test, why?](#i-was-never-asked-these-questions-in-an-assignment-or-test-why)
-  - [I enrolled late into the course, can I get an extension?](#i-enrolled-late-into-the-course-can-i-get-an-extension)
-  - [Can I ask questions on an assignment/assessment in the forum?](#can-i-ask-questions-on-an-assignmentassessment-in-the-forum)
-  - [Can I submit late? What is the penalty?](#can-i-submit-late-what-is-the-penalty)
-  - [Can I get an extension for the assessment?](#can-i-get-an-extension-for-the-assessment)
-  - [I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?](#i-am-very-busy-with-other-commitments-work-other-subjects-travel-etc-and-may-not-be-able-to-make-the-deadline-can-i-get-an-extension)
-  - [I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?](#i-am-not-available-for-the-exercise-challenge-ec-or-take-home-exercises-the-can-i-take-them-some-other-time)
   - [I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?](#i-have-a-spc-for-an-assessment-how-does-it-work-what-is-an-equivalent-assessment)
-  - [The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?](#the-room-for-the-time-based-and-timetabled-assessment-is-not-comfortable-can-we-get-a-larger-room)
-  - [Why are Exercise Challenges (Quizzes/Tests/Exams) not fully done on paper, or done online at home?](#why-are-exercise-challenges-quizzestestsexams-not-fully-done-on-paper-or-done-online-at-home)
-  - [In a code assignment/project, how do I make sure I do not go against academic integrity?](#in-a-code-assignmentproject-how-do-i-make-sure-i-do-not-go-against-academic-integrity)
-  - [Why did I get 57 in the assignment/project if it is just 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-just-5-of-the-course)
-  - [How do I prepare for the final in-person assessment?](#how-do-i-prepare-for-the-final-in-person-assessment)
-  - [When will the Final Assessment be (and where)?](#when-will-the-final-assessment-be-and-where)
-  - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
-  - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
-  - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
-  - [Am I still allowed to use the EdStem forum during a Silence Policy period?](#am-i-still-allowed-to-use-the-edstem-forum-during-a-silence-policy-period)
+  - [Projects and Assignments](#projects-and-assignments)
+    - [Are assignments individual or in groups?](#are-assignments-individual-or-in-groups)
+    - [I enrolled late into the course, can I get an extension?](#i-enrolled-late-into-the-course-can-i-get-an-extension)
+    - [Can I ask questions on an assignment/assessment in the forum?](#can-i-ask-questions-on-an-assignmentassessment-in-the-forum)
+    - [Can I submit late? What is the penalty?](#can-i-submit-late-what-is-the-penalty)
+    - [Can I get an extension for the assessment?](#can-i-get-an-extension-for-the-assessment)
+    - [I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?](#i-am-very-busy-with-other-commitments-work-other-subjects-travel-etc-and-may-not-be-able-to-make-the-deadline-can-i-get-an-extension)
+    - [In a code assignment/project, how do I make sure I do not go against academic integrity?](#in-a-code-assignmentproject-how-do-i-make-sure-i-do-not-go-against-academic-integrity)
+    - [Why did I get 57 in the assignment/project if it is just 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-just-5-of-the-course)
+    - [Am I still allowed to use the EdStem forum during a Silence Policy period?](#am-i-still-allowed-to-use-the-edstem-forum-during-a-silence-policy-period)
+  - [In-person Assessments: Exercise Challenges (EC), Tests/Quizzes, Exams](#in-person-assessments-exercise-challenges-ec-testsquizzes-exams)
+    - [I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?](#i-am-not-available-for-the-exercise-challenge-ec-or-take-home-exercises-the-can-i-take-them-some-other-time)
+    - [The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?](#the-room-for-the-time-based-and-timetabled-assessment-is-not-comfortable-can-we-get-a-larger-room)
+    - [Why are Exercise Challenges (Quizzes/Tests/Exams) not fully done on paper, or done online at home?](#why-are-exercise-challenges-quizzestestsexams-not-fully-done-on-paper-or-done-online-at-home)
+    - [How do I prepare for the final in-person assessment?](#how-do-i-prepare-for-the-final-in-person-assessment)
+    - [When will the Final Assessment be (and where)?](#when-will-the-final-assessment-be-and-where)
+    - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
+    - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
+    - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
   - [Questions about GIT?](#questions-about-git)
@@ -576,10 +578,6 @@ YES, and if you want to go to more than one tutorial, feel free to do so, the mo
 
 # ASSESSMENTS
 
-## Are assignments individual or in groups?
-
-All assessments in the AI course are individual. This means you have full ownership of your work and can plan by yourself! 👍
-
 ## I have not received the result/feedback of my assessment, why?
 
 The first thing to check is how many days have passed since submission. In general, and as [per RMIT guidelines](https://www.rmit.edu.au/students/my-course/assessment-results/assessment), assessment results will be provided within _10 working days_, so if that time has not passed yet, just wait:
@@ -596,7 +594,23 @@ That's correct, and it's one of the objectives of assessment. We aim to go beyon
 
 One important skill (a very important one!) is being able to handle new problems and challenges using the knowledge and problem-solving strategies you gathered earlier. It is not enough to _just_ solve questions you've seen before. In particular, if you want to excel, you must be able to welcome and handle novel challenges.
 
-## I enrolled late into the course, can I get an extension?
+## I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?
+
+Unless the SPC is a short extension, it will generally be carried out as an _Equivalent Assessment_ at a later stage -- typically a set of paper-based exercises with the instructor on campus, or an interview. An Equivalent Assessment aims to assess the same content and level, but will generally be a different task in a different format:
+
+![SPC EQV](imgs/RMIT-equivalent-assessment-SPC.jpg)
+
+In most cases, it will involve a set of exercises carried out on pen and paper.
+
+You will be informed of the date, time, and format of the Equivalent Assessment in advance, at least five (5) working days before it takes place. ✅ It is the student's responsibility to ensure they are available for it. 👍
+
+## Projects and Assignments
+
+### Are assignments individual or in groups?
+
+All assessments in the AI course are individual. This means you have full ownership of your work and can plan by yourself! 👍
+
+### I enrolled late into the course, can I get an extension?
 
 Enrolling and entering the course late does not, by itself, provide grounds for an extension, and special consideration extensions will not be granted for that reason:
 
@@ -610,18 +624,18 @@ In general, enrolling during the first week, and even the second, has little if 
 
 Please also refer to [this question](#i-enrolled-late-in-the-course-can-you-explain-x-y-and-z-about-the-course-what-should-i-do-now) above.
 
-## Can I ask questions on an assignment/assessment in the forum?
+### Can I ask questions on an assignment/assessment in the forum?
 
 Please refer to the entry [Posting about assessments][FORUM-ETIQUETTE] in the Forum FAQ.
 
-## Can I submit late? What is the penalty?
+### Can I submit late? What is the penalty?
 
 Yes, for assignment projects only (not timed and timetabled assessments), you can submit late with, albeit with a penalty. Assignment projects received late and without prior extension approval or special consideration will be penalised by a deduction of 10% of the total score possible per calendar day late for that assessment.
 
 >[!Warning]
 > Late submissions are only allowed to assignments and projects, not for timed and timetabled assessments (e.g., in class quizzes, tests, challenge exercises, or take-home exercises). These must be done during the time-frame allowed and no late submission is permitted.
 
-## Can I get an extension for the assessment?
+### Can I get an extension for the assessment?
 
 **Yes, but only in some cases.** As per policy, extensions are reserved for _extreme cases that are totally outside the control of the student_, such as health issues, bereavement, being the victim of a crime or other trauma, severe disruption to living arrangements, or financial hardship. Standard external commitments (e.g., work, other courses, travel, etc.) do not warrant an extension; please refer to [this question](#i-work-outside-and-have-other-commitments-should-i-take-this-course).
 
@@ -646,7 +660,7 @@ Each request is considered on an individual basis. If approved, the deadline for
 > [!IMPORTANT]
 > If your application relates to a request for an extension of time for submittable work (such as assignments, projects, or essays) to either the instructor or the SPC team, you are expected to continue progressing that work and submit it as soon as possible while your application is under consideration. Do not just wait idle for the notification to arrive.
 
-## I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?
+### I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?
 
 Only for unexpected circumstances outside your control (e.g., illness) will extensions or equivalent assessments be granted; see the question above.
 
@@ -658,7 +672,34 @@ Note that we have 400+ students, so many could claim time constraints for a vari
 
 Also, note that the difficulty of each assessment has been planned to be achievable within the given time frame, so claims about the difficulty of the task will not be entertained as grounds for an extension. Pushing one deadline for many students would not only complicate the running of the course, but would also put students in a more difficult position for upcoming (more demanding) assessments.
 
-## I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?
+### In a code assignment/project, how do I make sure I do not go against academic integrity?
+
+Good one! This deserves its own separate answer [here](CODE-INTEGRITY.md).
+
+### Why did I get 57 in the assignment/project if it is just 5% of the course?
+
+There are many ways to mark an assessment piece. In my courses, I try to mark all assessments out of 100. So, even if the project or test is worth 5% of the course, you would get a mark out of 100 -- say 50 -- for that assessment piece, rather than 2.5 (out of 5). _Why?_
+
+The reason is that doing so provides a **uniform and consistent view of student performance across assessments**, independent of the weight of each piece in the overall course. This way, you _always_ know that a mark of 85 means you did excellent work on that assessment (at "HD" level), and a mark of 56 means you reached the minimum expectation (a "PASS" level), though there may still be gaps in your knowledge/skills to work on. If, instead, marks were expressed in terms of the assessment's course weight, a 26 could mean anything: very good if the assessment was worth 30% of the course, or just okay if it was a 50% exam.
+
+To get the final contribution to your course grade, you then need to _multiply the mark of the assessment by its weight_. For example, if you got 50 in Assignment 1, and the assessment is worth 5% of the course, that means you have collected 2.5% toward the course from that assessment.
+
+By the way, this is just one way of doing it, and I'm not claiming it's the only correct approach. It isn't really that important in the end -- any student should be able to move between the two systems (out of 100, or out of the weight contribution) with ease.
+
+### Am I still allowed to use the EdStem forum during a Silence Policy period?
+
+> [!IMPORTANT]
+> It is **critical** to understand that evenings and weekends (i.e. close-of-business on Friday through to Monday morning) are non-working hours, and that students should not expect teaching staff to be responsive during those periods. If teaching staff are active during those times, it's only because they are being generous; this needs to be seen as "extra" and "optional", _not_ as an expectation or demand. This is always the case, regardless of whether or not a Silence Policy is active.
+
+In general:
+
+- You are still welcome to post in the EdStem forum, so long as you understand that will not be accepted or responded to by teaching staff until after the Silence Policy period elapses. That being said, it is probably not good etiquette to post during Silence Policy period.
+- The text in the Silence Policy outline applies to "posts about this assignment," which not only includes questions about the theoretical content and assignment specification, but **also** logistical questions relating to submissions, consultation times, etc.
+- The Silence Policy applies to usage of the **entire forum**, not just to questions in a certain category (e.g. the **Projects – P0** category); the policy relates to the content of the post, not the category it's posted in. Teaching staff reserve the right to modify tags as appropriate.
+
+## In-person Assessments: Exercise Challenges (EC), Tests/Quizzes, Exams
+
+### I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?
 
 **No.** These timed and timetabled exercises (both during the teaching semester and the final one) will happen as per the course guide, course webpage, and first lectorial.
 
@@ -666,23 +707,13 @@ Dates for assessments are provided well in advance from the start of the course,
 
 We do not run one-to-one specialised tests for students; that would be totally unfeasible with a course of 200+ students (like any assessment, designing a class test is not an easy task -- it takes a **lot** of work).
 
-## I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?
-
-Unless the SPC is a short extension, it will generally be carried out as an _Equivalent Assessment_ at a later stage -- typically a set of paper-based exercises with the instructor on campus, or an interview. An Equivalent Assessment aims to assess the same content and level, but will generally be a different task in a different format:
-
-![SPC EQV](imgs/RMIT-equivalent-assessment-SPC.jpg)
-
-In most cases, it will involve a set of exercises carried out on pen and paper.
-
-You will be informed of the date, time, and format of the Equivalent Assessment in advance, at least five (5) working days before it takes place. ✅ It is the student's responsibility to ensure they are available for it. 👍
-
-## The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?
+### The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?
 
 I was already able to book one of the largest rooms available at RMIT. Initially we were given an even smaller room. While possibly not ideal or perfect, the room and seats are reasonable.
 
 Note that centrally organised assessments are not run anymore and, as a results, _academics are asked to organised it all by themselves: room, paper, set-up, invigilation, collection, etc. This is the best I could do 🤷. I hope you could appreciate this is far from a trivial task for 400+ courses. I have been requesting centrally organised assessments, and I suspect the University will be more receptive to requests from students than from me, so I encourage you to voice your concerns on the matter (if anything for fellow future students!)
 
-## Why are Exercise Challenges (Quizzes/Tests/Exams) not fully done on paper, or done online at home?
+### Why are Exercise Challenges (Quizzes/Tests/Exams) not fully done on paper, or done online at home?
 
 In a nutshell, no assessment is perfect, and they all have resourcing and trade-off implications. It's not uncommon for students to be unaware of these.
 
@@ -694,21 +725,7 @@ Finally, TEQSA, the Australian regulator agency for universities, has recently p
 
 We hope this provides a bit more context, and we're happy to hear your thoughts. 😄
 
-## In a code assignment/project, how do I make sure I do not go against academic integrity?
-
-Good one! This deserves its own separate answer [here](CODE-INTEGRITY.md).
-
-## Why did I get 57 in the assignment/project if it is just 5% of the course?
-
-There are many ways to mark an assessment piece. In my courses, I try to mark all assessments out of 100. So, even if the project or test is worth 5% of the course, you would get a mark out of 100 -- say 50 -- for that assessment piece, rather than 2.5 (out of 5). _Why?_
-
-The reason is that doing so provides a **uniform and consistent view of student performance across assessments**, independent of the weight of each piece in the overall course. This way, you _always_ know that a mark of 85 means you did excellent work on that assessment (at "HD" level), and a mark of 56 means you reached the minimum expectation (a "PASS" level), though there may still be gaps in your knowledge/skills to work on. If, instead, marks were expressed in terms of the assessment's course weight, a 26 could mean anything: very good if the assessment was worth 30% of the course, or just okay if it was a 50% exam.
-
-To get the final contribution to your course grade, you then need to _multiply the mark of the assessment by its weight_. For example, if you got 50 in Assignment 1, and the assessment is worth 5% of the course, that means you have collected 2.5% toward the course from that assessment.
-
-By the way, this is just one way of doing it, and I'm not claiming it's the only correct approach. It isn't really that important in the end -- any student should be able to move between the two systems (out of 100, or out of the weight contribution) with ease.
-
-## How do I prepare for the final in-person assessment?
+### How do I prepare for the final in-person assessment?
 
 Final assessments are often summative, in that they try to assess your knowledge and skills _at the end_ of the learning process, as a whole. While you may have superficial or not-yet-fully-connected knowledge halfway through the semester, you'd be expected to reach a more cohesive and deeper level by the end of the course.
 
@@ -768,7 +785,7 @@ You'll notice that several of the tips overlap with what's discussed above, and 
 
 All the best, and hope this helps! 🚀
 
-## When will the Final Assessment be (and where)?
+### When will the Final Assessment be (and where)?
 
 The final assessment will be held during the official RMIT **Semester Assessment period**, which is Weeks 14-16 (Week 13 is left for studying and reviewing). Please check the [RMIT Academic Calendar][RMIT-CALENDAR] for the exact dates of the assessment period 📆.
 
@@ -779,7 +796,7 @@ To make things easier for everyone, I always ask the University to schedule the 
 > [!IMPORTANT]
 > Students must make themselves available for the final assessment during the official RMIT assessment period. This is a standard requirement across all universities, and students are expected to plan their schedules accordingly. There is no replacement or alternative assessment for students who are unavailable during this period, except in approved Special Consideration (SPC) cases or equivalent assessments, which will be held in-person during the official **Semester deferred assessment period** (check the academic calendar).
 
-## I will not be around for an in-person assessment, can I take it online or before/after?
+### I will not be around for an in-person assessment, can I take it online or before/after?
 
 Students are expected to **make themselves available for all their assessments**, including in-person final ones between Weeks 13-16. This is normal and not just an RMIT thing — all universities hold final assessments after the teaching weeks. 🙂
 
@@ -787,7 +804,7 @@ Therefore, we will **_not_** prepare and conduct assessments via video calls or 
 
 Remember, we have 400+ students 🧑‍🤝‍🧑, and everybody has their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be _totally_ impossible for us to cater to each individual's circumstances (if we do it for one, we must do it for everyone else who requests a special case) — we just don't have the bandwidth (and we educators have our own lives too!). 😅
 
-## I would like to challenge the final assessment (review period after grade release); can I do it? 🧐
+### I would like to challenge the final assessment (review period after grade release); can I do it? 🧐
 
 Of course! If you believe there has been a **factual error in the marking** of your final assessment, you may request a review. However, please follow these important guidelines when preparing your request:
 
@@ -803,21 +820,9 @@ Please submit your review request by filling out and emailing the **Review of As
 > [!IMPORTANT]
 > When a review is performed upon request, the final mark can go up, stay the same, or go down. ⚖️
 
-## When is the SPC for the final assessment? 📆
+### When is the SPC for the final assessment? 📆
 
 SPC for Weeks 13+ assessments will be done during the **deferred assessment period**, which is usually in early December (after the official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] for the year to find out exactly when those assessments will be running. It's great that you're thinking ahead on this — **good luck!** 🍀
-
-## Am I still allowed to use the EdStem forum during a Silence Policy period?
-
-> [!IMPORTANT]
-> It is **critical** to understand that evenings and weekends (i.e. close-of-business on Friday through to Monday morning) are non-working hours, and that students should not expect teaching staff to be responsive during those periods. If teaching staff are active during those times, it's only because they are being generous; this needs to be seen as "extra" and "optional", _not_ as an expectation or demand. This is always the case, regardless of whether or not a Silence Policy is active.
-
-In general:
-
-- You are still welcome to post in the EdStem forum, so long as you understand that will not be accepted or responded to by teaching staff until after the Silence Policy period elapses. That being said, it is probably not good etiquette to post during Silence Policy period.
-- The text in the Silence Policy outline applies to "posts about this assignment," which not only includes questions about the theoretical content and assignment specification, but **also** logistical questions relating to submissions, consultation times, etc.
-- The Silence Policy applies to usage of the **entire forum**, not just to questions in a certain category (e.g. the **Projects – P0** category); the policy relates to the content of the post, not the category it's posted in. Teaching staff reserve the right to modify tags as appropriate.
-
 
 # EXTRAS
 
