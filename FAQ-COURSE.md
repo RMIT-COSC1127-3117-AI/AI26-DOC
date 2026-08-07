@@ -24,7 +24,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [Attendance: do I need to attend lectorials and tutorials?](#attendance-do-i-need-to-attend-lectorials-and-tutorials)
   - [Can I audit the course?](#can-i-audit-the-course)
   - [I am enrolled in COSC3117 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?](#i-am-enrolled-in-cosc3117-pgrd-but-my-canvas-says-cosc1127-ugrd-is-everything-ok)
-  - [I enrolled late in the course, can you explain X, Y, and Z about the course? What should I do now?](#i-enrolled-late-in-the-course-can-you-explain-x-y-and-z-about-the-course-what-should-i-do-now)
+  - [I enrolled late in the course, can you explain X, Y, and Z about the course? What should I do now? Can I get an extension?](#i-enrolled-late-in-the-course-can-you-explain-x-y-and-z-about-the-course-what-should-i-do-now-can-i-get-an-extension)
   - [I have a question about the course, but it is not here](#i-have-a-question-about-the-course-but-it-is-not-here)
 - [DISCUSSION FORUM \& FORUM ETIQUETTE](#discussion-forum--forum-etiquette)
   - [What is the Forum FAQ \& Forum Etiquette?](#what-is-the-forum-faq--forum-etiquette)
@@ -277,26 +277,25 @@ Yes, no need to worry. This is just a Canvas "hack" for cross-listed courses so 
 
 Once again, we are not following or using Canvas, so do not worry about it and just pay attention to the material and information in the EdStem forum.
 
-## I enrolled late in the course, can you explain X, Y, and Z about the course? What should I do now?
+## I enrolled late in the course, can you explain X, Y, and Z about the course? What should I do now? Can I get an extension?
 
-First of all, I assume you have already discussed your late enrolment with your Program Manager: this is important. We assume students have been diligent beforehand and are fully enrolled and ready by at least Week 0, if not earlier.
+First, make sure you've discussed your late enrolment with your Program Manager: that's an important step, since we generally expect students to be fully enrolled and ready to go by Week 0, if not earlier.
 
-Enrolling late means you have missed content and information about the course, and possibly assessments. This is fine as long as you **have the OK of your Program Manager** and take **full responsibility** for entering the course late, _without shifting the burden onto the teaching staff_.
+Joining late means you'll have missed some content, information, and possibly an assessment or two. That's totally fine, as long as your Program Manager is aware and you're happy to **catch up on your own steam**, rather than leaning on the teaching staff to fill you in individually. 🙂
 
-Think about it: joining a course in week 2 or 3 is like arriving 15 minutes late to a meeting with lots of people -- you do it carefully, trying not to bother others, and accepting _full responsibility_ for having arrived "late". Would you stop the meeting and ask, _"can you please tell me what you've been discussing so far?"_ Surely not... ;-)
+Think of it a bit like joining a meeting 15 minutes late: you slip in quietly, try to catch up from context, and you wouldn't expect everyone to stop and recap just for you.
 
-So this means that:
+In practice, this means:
 
-1. The teaching staff will not go over the course logistics and information on a per-student basis for a student who has joined late (and missed the first week of information and course overview).
-   - This means you will have to gather the information from the first weeks yourself, by reading the online course pages, going through the relevant forum posts, and watching the videos and recordings. Talking to fellow students who are in sync with the course will probably help too.
-   - Please don't ask the teaching staff to go over the course details _again_ unless you truly have to -- and if you do, please do it only _after_ you've processed everything yourself, and do it _in person_ during lectorials, tutorials, or consultation time. This shows you're genuinely making an effort to catch up (and the teaching staff will be more sympathetic as a result). 😄
-2. You will have to catch up with the technical content of the course. This is an intense course with significant reading allocated every week, starting from week 1. This means you will need to put in significant effort to sync with the course.
-   - Entering in week 2 or 3 should be doable with effort; after that it becomes very challenging and risky.
-3. You are not entitled to any extension or redo of assessments that have already run or been distributed by the time you enrol.
+1. We won't be able to walk you through the course logistics and first-week overview one-on-one.
+   - Instead, catch up by reading the course pages, browsing the EdStem forum, and watching the recordings — chatting with a classmate who's already up to speed helps a lot too.
+   - If you still have questions after that, we're very happy to help,  just ask in person during lectorials, tutorials, or consultation time rather than over email, and after you've had a go at catching up yourself. 😄
+2. You'll want to put in some extra effort to catch up on the technical content, since the readings build up from week 1. Joining in week 2 is doable with extra effort; joining later than that gets progressively harder.
+3. For assessments that have already run or been released before you enrolled, we won't be able to offer an extension or a redo, but everything from here on is fair game like for everyone else! See [this question](#i-enrolled-late-into-the-course-can-i-get-an-extension).
 
-In summary, the course is intense even for those who start on time, and every week matters. I am fine with you joining late after discussing it with your PM, as long as you **take full responsibility** for that late start. I am also happy for students to contact me before they are formally enrolled, while they wait for the administrative process to conclude; this lets them stay in sync with the course until the paperwork is sorted out.
+**Bottom line:** it's an intense course from day one, but we're happy to have you join late as long as you take it on with a bit of initiative. And if you'd like to get a head start while your enrolment paperwork is still going through, feel free to reach out: you're welcome to follow along informally in the meantime. 👍
 
-Hope this is clear, and all the best in the course!
+Hope that helps, and welcome aboard!
 
 ## I have a question about the course, but it is not here
 
@@ -612,15 +611,15 @@ All assessments in the AI course are individual. This means you have full owners
 
 ### I enrolled late into the course, can I get an extension?
 
-Enrolling and entering the course late does not, by itself, provide grounds for an extension, and special consideration extensions will not be granted for that reason:
+Late enrolment on its own isn't grounds for an extension, and special consideration won't be granted for that reason alone:
 
 ![](imgs/no-spc-late-enrollment.jpg)
 
-When a student enrols late, it is **their** responsibility not only to catch up by themselves (using the many available resources provided), but also to deal with any impact on assessments that may have already occurred or may be on the way. Assessments are run according to the course schedule for everyone; there are no multiple starting points depending on when a student enrolled.
+If you enrol late, it'll be on you to catch up using the resources available, and to work around any impact on assessments that have already happened or are coming up soon. Assessments run to the same schedule for everyone, so unfortunately there's no separate timeline for late starters.
 
-Because of this, it is essential that, before enrolling late, students discuss the potential impact, consequences, and risks with their Program Manager, and obtain explicit permission to do so.
+That's why it's worth discussing the potential impact and risks with your Program Manager before enrolling late, and getting their sign-off first.
 
-In general, enrolling during the first week, and even the second, has little if any impact or risk, as long as sufficient extra time is invested to catch up. Entering the course in week 3, let alone later than that, is not recommended and is very risky, on top of probably having already missed a few assessment pieces.
+As a rough guide: enrolling in week 1, or even week 2, is generally manageable if you put in some extra catch-up time. Joining in week 3 or later is riskier and best avoided if you can help it, especially since you'll likely have missed an assessment or two by then.
 
 Please also refer to [this question](#i-enrolled-late-in-the-course-can-you-explain-x-y-and-z-about-the-course-what-should-i-do-now) above.
 
