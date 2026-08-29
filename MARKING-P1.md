@@ -127,7 +127,7 @@ We hope the feedback is clear and detailed. The marking is **(mostly) automated 
 - ⏰ Any challenges or requests must be made **within 5 working days** of receiving this feedback. After that, marks are considered final.
 
 > [!IMPORTANT]
-> As discussed in class several times, this course (and university more broadly) is not about judging the final product or effort invested alone. This project exists to help you understand the concepts and techniques of AI search: you will ultimately demonstrate your knowledge in the final summative assessment. This project is a formative assessment, and the feedback is here to help you learn towards that final goal. That is also part of why it is worth only 10%.
+> As discussed in class several times, this course (and university more broadly) is not about judging the final product or effort invested alone. This project exists to help you understand the concepts, foundations, and techniques of AI search: you will ultimately demonstrate your knowledge in the final summative assessment. Thus these projects are more "formative" assessment, and the feedback is here to help you learn towards that final goal. That is also part of why it is worth 10%. 👍
 
 ### 🔍 Before Contacting Us
 
