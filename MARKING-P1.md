@@ -69,7 +69,33 @@ Question 10 for the PGRD (postgraduate) cohort evaluated two components:
 1. Correct representation of the problem (state space, actions, goal test, etc.) - worth 5 points.
 2. An effective heuristic for the domain - worth 4 points.
 
-For (1), we evaluate your problem representation using OUR UCS algorithm, so you are not penalised if your own search algorithm is buggy or inefficient. 😉 This is assessed by tests `q10p`, `q10p-core`, and `q10p-goal`; the latter two run only if the basic `q10p` test passes first. Test `q10p-goal` checks corner cases like unsolvable tasks (e.g., when all capsules are unreachable or there are no capsules at all!) or trivial cases (e.g., no capsule or food to collect: job done!)
+For (1), we evaluate your problem representation using OUR UCS algorithm, so you are not penalised if your own search algorithm is buggy or inefficient. 😉 This is assessed by tests `q10p`, `q10p-core`, and `q10p-goal`; the latter two run only if the basic `q10p` test passes first. Test `q10p-goal` checks corner cases like unsolvable tasks (e.g., when all capsules are unreachable or there are no capsules at all!) or trivial cases (e.g., no capsule or food to collect: job done!).
+
+For example, this should be solvable:
+
+```plaintext
+%%%%%%%%%%%%%%%%%%%%
+%             %    %
+% %% %% %% %% %% % %
+%                %o%
+% %%%%%%%%%%%%%%%% %
+%P ............... %
+%%%%%%%%%%%%%%%%%%%%
+```
+
+but this shouldn't:
+
+```plaintext
+%%%%%%%%%%%%%%%%%%%%
+%.  o        . %   %
+% %%.%%.%%.%%.%% % %
+%        P       % %
+%%%%%%%%%%%%%%%%%% %
+%..  .             %
+%%%%%%%%%%%%%%%%%%%%
+```
+
+The question is: have you carefully crafted various scenarios and test your representation against them?
 
 For (2), we run OUR A* implementation with your heuristic in test `q10p-eff`. A blind BFS expands 78,297 nodes to solve this problem in ~8+ seconds. Your heuristic earns points by reducing that expansion count below a series of thresholds: 30,000 nodes for the first point, then 10,000, 4,000, and 500 nodes for one further point each, up to a maximum of 4 points. For reference, our best heuristic expanded only 149 nodes and solved the task in ~0.034 seconds, while a much simpler/basic heuristic expands just 3,682 nodes in ~0.3 seconds still earned 3 points. The total time allowed was 3 seconds, around half of what BrFS would take (to get any benefit out of it!) but much slower than any reasonable heuristic.
 
