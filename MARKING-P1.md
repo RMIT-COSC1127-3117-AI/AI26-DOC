@@ -12,8 +12,11 @@ In the PR of your project repo, you will be provided with:
 - [Marking Guide for AI'26 - Project 1 - Search](#marking-guide-for-ai26---project-1---search)
   - [TOC](#toc)
   - [Testing set](#testing-set)
-    - [Timeout for Q07](#timeout-for-q07)
-    - [Testing Q10 PGRD: Capsule Problem](#testing-q10-pgrd-capsule-problem)
+      - [Timeout for Q07](#timeout-for-q07)
+    - [Testing Q09: Optimised BFS](#testing-q09-optimised-bfs)
+    - [Testing Q10](#testing-q10)
+      - [UGRD: Iterative Deepening](#ugrd-iterative-deepening)
+      - [PGRD: Capsule Problem](#pgrd-capsule-problem)
   - [Raw total/bonus points vs question points](#raw-totalbonus-points-vs-question-points)
   - [Development: Commit Ratio \& Weight](#development-commit-ratio--weight)
   - [Final Mark Result](#final-mark-result)
@@ -37,7 +40,7 @@ There were also some question-specific tests, as follows:
 - `q09*` and `q10*`: tests for the extended questions Q9 and Q10, undergraduate cohort.
 - `q09p*` and `q10p*`: tests for the extended questions Q9 and Q10, postgraduate (PGRD) cohort.
 
-### Timeout for Q07
+#### Timeout for Q07
 
 For this question, we used the following strategy for a more accurate and fair assessment:
 
@@ -47,7 +50,19 @@ For this question, we used the following strategy for a more accurate and fair a
 
 This approach to assessing Q7 improves on standard autograding, as it decouples the quality of the heuristic from the quality of the search algorithm. ✋
 
-### Testing Q10 PGRD: Capsule Problem
+### Testing Q09: Optimised BFS
+
+Both PG and UG were asked to produced a modified version of BFS used in Q01-Q04, by either implementing early-goal-checking (UG) or optimised version without duplication of expansions (PG).
+
+In both cases, the solutions should work out-of-the-box when passing a frontier data-structure to the optimised solution provided for Q09. This means that your BrFS (Q02) and UCS (Q03)  must work out-of-the box with the new optimised version of BFS provided in Q09.
+
+### Testing Q10
+
+#### UGRD: Iterative Deepening
+
+This basically follows similar pattern as Q01-Q04 for the search algorithms.
+
+#### PGRD: Capsule Problem
 
 Question 10 for the PGRD (postgraduate) cohort evaluated two components:
 
