@@ -54,7 +54,7 @@ This approach to assessing Q7 improves on standard autograding, as it decouples 
 
 Both PG and UG were asked to produced a modified version of BFS used in Q01-Q04, by either implementing early-goal-checking (UG) or optimised version without duplication of expansions (PG).
 
-In both cases, the solutions should work out-of-the-box when passing a frontier data-structure to the optimised solution provided for Q09. This means that your BrFS (Q02) and UCS (Q03)  must work out-of-the box with the new optimised version of BFS provided in Q09.
+In both cases, the solutions should work out-of-the-box when passing a frontier data-structure to the optimised solution provided for Q09. This means that your BrFS (Q02) and UCS (Q03) must work out-of-the box with the new optimised version of BFS provided in Q09. More specifically, will your Q01-Q04 work if the call to `bestFirstSearch` is replaced with the optimised version provided in Q09? If not, you will lose marks for Q09.
 
 ### Testing Q10
 
@@ -114,7 +114,6 @@ We also checked that you configured your GitHub author username correctly, did n
 > The commit count is a PROXY, not a target. The goal is not to hit a “magic” number regardless of how you get there. We look at the actual repository. Ten meaningless commits are just as bad as one bulk commit. The real question is: _looking at the commit history, can one reconstruct the process behind the solution?_ Can we see the incremental development, bug fixes, optimisations, refactoring, and mistakes along the way?
 >
 > A ratio below 1 indicates fewer commits than expected and suggests that too much work may have been “dumped” into a single commit. 😢
-
 
 ## Final Mark Result
 
