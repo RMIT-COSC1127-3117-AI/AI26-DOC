@@ -40,6 +40,15 @@ There were also some question-specific tests, as follows:
 - `q09*` and `q10*`: tests for the extended questions Q9 and Q10, undergraduate cohort.
 - `q09p*` and `q10p*`: tests for the extended questions Q9 and Q10, postgraduate (PGRD) cohort.
 
+
+> [!Warning]
+> Some tests depend on previous tests, so they will ONLY run if the previous tests have passed. For example, to test the corner cases on the goal, it will usually only run if the basic tests pass first indicating the general solution is correct already. When there are dependencies on the tests you will see a note like this:
+>
+> ```plaintext
+> *** NOTE: Make sure to complete Question q10p before working on Question q10p-core,
+> *** because Question q10p-core builds upon your answer for Question q10p
+>  ```
+
 #### Timeout for Q07
 
 For this question, we used the following strategy for a more accurate and fair assessment:
