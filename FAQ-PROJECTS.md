@@ -68,6 +68,10 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [In the feedback autograder, what does `expanded_states` means?](#in-the-feedback-autograder-what-does-expanded_states-means)
   - [For IDS cycle checking, should we check only a few levels, or all the way up to the root node?](#for-ids-cycle-checking-should-we-check-only-a-few-levels-or-all-the-way-up-to-the-root-node)
   - [In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?](#in-q6-or-q7-i-am-getting-fail-inconsistent-heuristic-path-for-a-test-case-what-does-this-mean)
+- [Project 2: Minecraft in Prolog](#project-2-minecraft-in-prolog)
+  - [Can we assume that there is no circular dependency within item construction, in either the ingredients or what tools are required to build them?](#can-we-assume-that-there-is-no-circular-dependency-within-item-construction-in-either-the-ingredients-or-what-tools-are-required-to-build-them)
+  - [With Exercise 4.B, how should duplicate tools within the requested items be handled? Should a tool used in the construction of another item remove just one of the tools in the requested items or all of the tools in the requested items?](#with-exercise-4b-how-should-duplicate-tools-within-the-requested-items-be-handled-should-a-tool-used-in-the-construction-of-another-item-remove-just-one-of-the-tools-in-the-requested-items-or-all-of-the-tools-in-the-requested-items)
+  - [Are Ingredients and Tools mutually exclusive, so an item cannot be used as an Ingredient and Tool, even for different items?](#are-ingredients-and-tools-mutually-exclusive-so-an-item-cannot-be-used-as-an-ingredient-and-tool-even-for-different-items)
 
 -------------------------
 
@@ -766,3 +770,18 @@ You have an inconsistent heuristic; i.e. it either:
 - it overestimates the difference between two nodes. (i.e. X and Y are neighbours, heuristic cost of X is 10, Y is 13, and the cost from X to Y is 2).
 
 You will need to try to figure out why your heuristic is inconsistent, and fix it, or use an entirely different heuristic.
+
+# Project 2: Minecraft in Prolog
+
+## Can we assume that there is no circular dependency within item construction, in either the ingredients or what tools are required to build them?
+
+Yes---of course, items cannot be defined in terms of themselves. 😉
+
+## With Exercise 4.B, how should duplicate tools within the requested items be handled? Should a tool used in the construction of another item remove just one of the tools in the requested items or all of the tools in the requested items? 
+
+A tool used in the construction of another item only counts for one of its instances in the list of requested items. You need to construct as many copies of a given tool as are requested.
+
+## Are Ingredients and Tools mutually exclusive, so an item cannot be used as an Ingredient and Tool, even for different items?
+
+Yes.
+
