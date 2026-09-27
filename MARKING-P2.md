@@ -21,14 +21,14 @@ The automarker will produce a YAML file describing the outcome of each single te
   - [Other notes](#other-notes)
     - [Forbidden predicates](#forbidden-predicates)
     - [Predicate dependencies and previous solutions](#predicate-dependencies-and-previous-solutions)
+  - [Challenging your results](#challenging-your-results)
+    - [🔍 Before Contacting Us](#-before-contacting-us)
 
 ## Consult error-free
 
 Of course the very first and most basic requirement to get any marks is that your codebase compiles error free, so that the automarker can load it up as a library in full:
 
-```plantext
-- 💻 Your code **must consult and run _error-free_ using [SWI-Prolog][https://www.swi-prolog.org/]**; staff will not debug and fix any code.
-```
+> 💻 Your code **must consult and run _error-free_ using [SWI-Prolog](https://www.swi-prolog.org/)**; staff will not debug and fix any code.
 
 This is super easy to check, you just consult your solution file and it should report NO error whatsoever:
 
@@ -79,7 +79,7 @@ true.
 
 Here, the file has syntax problems in line 146 and hence it yields ERROR. A file like this will be marked and will attract zero marks, as per spec. When this happens the report will signal it with the following feedback:
 
-```
+```yaml
 - 'Solution file consulted with error (this should never happen): syntax_error(end_of_file)'
 ```
 
@@ -94,9 +94,9 @@ Exercises are tested on lots of different single test cases, which are grouped i
 
 For each exercise, there are three test sets: `spec`, `core`, and `handcrafted`:
 
-* `spec`: these contain the exact tests which we provided in the test file in the project repository.
-* `core`: these contain a similar set of tests which use a _different and more complex_ set of items generated from the Minecraft game server. They check for generality of solution, but should be not be much harder or easier than `spec`.
-* `handcrafted`: these contain a set of handcrafted tests which use a manually defined items. These are designed to check edge/special cases and unusual scenarios.
+- `spec`: these contain the exact tests which we provided in the test file in the project repository.
+- `core`: these contain a similar set of tests which use a _different and more complex_ set of items generated from the Minecraft game server. They check for generality of solution, but should be not be much harder or easier than `spec`.
+- `handcrafted`: these contain a set of handcrafted tests which use a manually defined items. These are designed to check edge/special cases and unusual scenarios.
 
 Each single unit test is associated a number of _points_, which are summed up to give the total points for the test set. Each test set is associated a number of _marks_, all test sets in the project sum up to 100. For example, for Exercise 1.A, `spec` is worth 1 mark, and `core` and `handcrafted` are worth 2 each, for a total of 5 marks for the exercise. 
 
@@ -177,18 +177,17 @@ $$points = (0.9\cdot t\cdot p_c + 0.1\cdot m \cdot b_r) \cdot 0.3\cdot b_s$$
 
 where:
 
-* $t$ is the total points allocated to that test case,
-* $p_c$ is the ratio of correct solutions generated (including partial matches) -- 1 is all expected solutions generated,
-* $b_r$ is a binary redundancy flag set to $1$ if _no redundant_ solutions were found, and
-* $b_s$ is a binary soundness flag set to $1$ if any _unsound_ solutions were found (which means -70% discount if wrong answers are returned).
+- $t$ is the total points allocated to that test case,
+- $p_c$ is the ratio of correct solutions generated (including partial matches) -- 1 is all expected solutions generated,
+- $b_r$ is a binary redundancy flag set to $1$ if _no redundant_ solutions were found, and
+- $b_s$ is a binary soundness flag set to $1$ if any _unsound_ solutions were found (which means -70% discount if wrong answers are returned).
 
 This is indicated in the marking report by lines such as:
 
-```
+```yaml
 Test N: [P/T] - Final points collected
 ```
 where `N` is the ID of the test case, `P` is the number of points received by the submission, and `T` is the total points available.
-
 
 ## Report
 
@@ -196,7 +195,7 @@ The automarker will produce a YAML file with the summary of the results for each
 
 An example of the section of test set `ex2_core` (core test set for Exercise 2) is as follows:
 
-```
+```yaml
  ex1_handcrafted:
     desc: checks tools_for_items/2 predicate
     points: 3.0
@@ -232,7 +231,7 @@ In this fragment, there are 4 single tests. Each has been checked for completene
 
 When a test is found to use a forbidden predicate, as per the "Language restrictions and guidelines ⚡" section in the project spec, the test will attract no points and be reported as follows:
 
-```
+```yaml
     - 'Test 2: [0.00] - Test failed due to exception: A forbidden predicate has been
       used: {''findall''}'
 ```
@@ -240,7 +239,6 @@ When a test is found to use a forbidden predicate, as per the "Language restrict
 In this case, the test used the `findall/3` predicate which was not allowed.
 
 It is the MINIMUM expectation to adhere to these rules. No partial marks will be awarded when these rules are broken or ignored.
-
 
 ### Predicate dependencies and previous solutions
 
@@ -250,3 +248,27 @@ This means that if your implementation of a predicate in Exercise 4 depends on p
 
 For example, `blue_print/2` will be used in different exercises, and we do not want a buggy implementation of `blue_print/2` to affect the marks for later exercise. So, we would use our correct implementation of `blue_print/2` when testing your Exercise 4 code.
 
+## Challenging your results
+
+If, after significant review and analysis on your part, you believe there is a **factual error** in the marking, please post in the Feedback PR of your repo and tag Harry using `@gourdoni`.
+
+> [!CAUTION]
+> Do not send emails or post on the forum. 🚫 Only communication in your PR will be considered.
+
+We hope the feedback is clear and detailed. The marking is **(mostly) automated and objective**, based on **unit-testing best practices**, so there is limited room for subjective reconsideration.
+
+- ⚠️ Please do **not** contact teaching staff about this feedback without first reviewing it and your submission carefully. We will not respond to messages that don't demonstrate this has been done beforehand.
+- ⚠️ Do **not** ask for "reconsideration" of subjective matters (e.g., _"I think my code is better than what the report says"*). Messages asking for extra marks without justification will not be answered: apologising does not earn marks back. The best way to learn is to understand the feedback and apply it next time.
+- ❌ Do **not** send emails or make forum posts about marking: requests made outside this PR will not be processed.
+- ⏰ Any challenges or requests must be made **within 5 working days** of receiving this feedback. After that, marks are considered final.
+
+> [!IMPORTANT]
+> As discussed in class several times, this course (and university more broadly) is not about judging the final product or effort invested alone. This project exists to help you understand the concepts, foundations, and techniques of AI search: you will ultimately demonstrate your knowledge in the final summative assessment. Thus these projects are more "formative" assessment, and the feedback is here to help you learn towards that final goal. That is also part of why it is worth 10%. 👍
+
+### 🔍 Before Contacting Us
+
+Please carefully review:
+
+- The feedback in this report.
+- The marking guide above.
+- Your submitted code: the best learning happens when YOU 🫵 find the issue yourself.
