@@ -258,7 +258,7 @@ If, after significant review and analysis on your part, you believe there is a *
 We hope the feedback is clear and detailed. The marking is **(mostly) automated and objective**, based on **unit-testing best practices**, so there is limited room for subjective reconsideration.
 
 - ⚠️ Please do **not** contact teaching staff about this feedback without first reviewing it and your submission carefully. We will not respond to messages that don't demonstrate this has been done beforehand.
-- ⚠️ Do **not** ask for "reconsideration" of subjective matters (e.g., _"I think my code is better than what the report says"*). Messages asking for extra marks without justification will not be answered: apologising does not earn marks back. The best way to learn is to understand the feedback and apply it next time.
+- ⚠️ Do **not** ask for "reconsideration" of subjective matters (e.g., _"I think my code is better than what the report says"_). Messages asking for extra marks without justification will not be answered: apologising does not earn marks back. The best way to learn is to understand the feedback and apply it next time.
 - ❌ Do **not** send emails or make forum posts about marking: requests made outside this PR will not be processed.
 - ⏰ Any challenges or requests must be made **within 5 working days** of receiving this feedback. After that, marks are considered final.
 
