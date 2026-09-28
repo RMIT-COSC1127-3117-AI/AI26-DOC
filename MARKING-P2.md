@@ -252,7 +252,7 @@ For example, `blue_print/2` will be used in different exercises, and we do not w
 
 ## Challenging your results
 
-If, after significant review and analysis on your part, you believe there is a **factual error** in the marking, please post in the Feedback PR of your repo and tag Harry using `@gourdoni`.
+If, after significant review and analysis on your part, you believe there is a **problem** in the marking, please post in the Feedback PR of your repo and tag Harry using `@gourdoni`.
 
 > [!CAUTION]
 > Do not send emails or post on the forum. 🚫 Only communication in your PR will be considered.
@@ -265,7 +265,7 @@ We hope the feedback is clear and detailed. The marking is **(mostly) automated 
 - ⏰ Any challenges or requests must be made **within 5 working days** of receiving this feedback. After that, marks are considered final.
 
 > [!IMPORTANT]
-> As discussed in class several times, this course (and university more broadly) is not about judging the final product or effort invested alone. This project exists to help you understand the concepts, foundations, and techniques of AI search: you will ultimately demonstrate your knowledge in the final summative assessment. Thus these projects are more "formative" assessment, and the feedback is here to help you learn towards that final goal. That is also part of why it is worth 10%. 👍
+> As discussed in class several times, this course (and university more broadly) is not about judging the final product or effort invested alone. This project exists to help you understand the concepts, foundations, and techniques of AI declarative programming in logic-programming: you will ultimately demonstrate your knowledge in the final summative assessment. Thus these projects are more "formative" assessment, and the feedback is here to help you learn towards that final goal. That is also part of why it is worth 10%. 👍
 
 ### 🔍 Before Contacting Us
 
@@ -274,6 +274,9 @@ Please carefully review:
 - The feedback in this report.
 - The marking guide above.
 - Your submitted code: the best learning happens when YOU 🫵 find the issue yourself.
+
+> [!NOTE]
+> If you challenge the marking, you may be asked to attend an in-person meeting with the teaching staff to discuss your submission and the marking. If so, you must make yourself available to attend the interview. If you are not available, your challenge will be dismissed and the marks will remain as is.
 
 ## Show your workings on your commit history
 
