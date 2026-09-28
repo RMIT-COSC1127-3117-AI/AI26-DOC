@@ -274,6 +274,7 @@ Please carefully review:
 - The feedback in this report.
 - The marking guide above.
 - Your submitted code: the best learning happens when YOU 🫵 find the issue yourself.
+- The [SE-PRACTICE](SE-PRACTICES.md) document on development expectations (see also below on _"Show your workings on your commit history"_).
 
 > [!NOTE]
 > If you challenge the marking, you may be asked to attend an in-person meeting with the teaching staff to discuss your submission and the marking. If so, you must make yourself available to attend the interview. If you are not available, your challenge will be dismissed and the marks will remain as is.
