@@ -23,6 +23,7 @@ The automarker will produce a YAML file describing the outcome of each single te
     - [Predicate dependencies and previous solutions](#predicate-dependencies-and-previous-solutions)
   - [Challenging your results](#challenging-your-results)
     - [🔍 Before Contacting Us](#-before-contacting-us)
+  - [Show your workings on your commit history](#show-your-workings-on-your-commit-history)
 
 ## Consult error-free
 
@@ -272,3 +273,15 @@ Please carefully review:
 - The feedback in this report.
 - The marking guide above.
 - Your submitted code: the best learning happens when YOU 🫵 find the issue yourself.
+
+## Show your workings on your commit history
+
+Prolog is new to almost all students, so making fixing bugs, extending functionality, decomposing the problem in stages, optimising, and refactoring are all expected in a high-quality solution. Remember this is **not work**, it is a _learning environment_ and hence showing your workings is important. The commit history of your repo is a great way to show your workings, and we will check it for evidence of your learning journey.
+
+Some exercises may take a single commit, but many exercises were complex and would require multiple commits to get to a working solution. Question 4a was repeatedly singled out as a large difficulty one, so we would expect many and well-explained commits just for that question.
+
+Here is an example of a good commit history just a single exercise:
+
+![](imgs/great-git_repo_commits-prolog.jpg)
+
+This history provides detailed information on how the student solved the problem step-by-step. 👏
