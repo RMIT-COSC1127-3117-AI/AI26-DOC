@@ -18,6 +18,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [But, why do we need to show good SE/GIT processes?](#but-why-do-we-need-to-show-good-segit-processes)
   - [Can I just add dummy/padding commits to have more commits?](#can-i-just-add-dummypadding-commits-to-have-more-commits)
   - [Technical questions about GIT?](#technical-questions-about-git)
+  - [Why do we need to certify the submission in a separate form and outside of GitHub?](#why-do-we-need-to-certify-the-submission-in-a-separate-form-and-outside-of-github)
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
   - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
@@ -168,10 +169,19 @@ Hope this puts some context and rationale to the issue, and serves as a good lea
 
 That will not only show very poor SE practices (because dummy commits are not meaningful commits), but most importantly it may be deemed as a case of "_dishonest behavior to get an unfair advantage_", which is against the course Honours Code and can be a serious offense. One thing is to have poor SE practices, another thing is to attempt to cheat, so that should be out of the question! :-)
 
-
 ## Technical questions about GIT?
 
 We have a dedicated [GIT FAQ](FAQ-GIT.md) for you.. 👍
+
+## Why do we need to certify the submission in a separate form and outside of GitHub?
+
+There are several reasons why the course prefer keeping the certification form separate from GitHub:
+
+1. **A clear and explicit declaration:** Submitting code to GitHub does not necessarily mean that a student has explicitly certified its authorship. A separate form requires students to make that declaration **consciously and explicitly**, rather than having it implicitly associated with a commit. A Git commit may include changes to the certification alongside other code changes, either intentionally or inadvertently. Therefore, we cannot assume that committing or submitting code constitutes an explicit declaration of authorship. A separate form requires you to consciously and unambiguously certify that the submitted work is your own, rather than relying on an action that may simply be part of your normal development workflow.
+2. **Feedback beyond the code:** The form also allows us to collect optional feedback about the project, including your enjoyment, learning experience, and suggestions for improvement. This is valuable information that cannot be easily entered or obtained from GitHub activity.
+3. **A consistent process for everyone:** Not all students use GitHub in exactly the same way. A separate form provides a consistent way for everyone to complete the certification, regardless of their workflow or how they manage their repository.
+
+Ultimately, **the purpose of the form is not to duplicate GitHub's functionality but to serve a different educational and administrative purpose.** Keeping these two activities separate also makes it clear that submitting your code and formally certifying your work are two distinct responsibilities.
 
 ------------------------------
 # PYTHON
