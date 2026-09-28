@@ -16,7 +16,7 @@ The automarker will produce a YAML file describing the outcome of each single te
     - [Completeness](#completeness)
     - [Redundancy](#redundancy)
     - [Soundness](#soundness)
-  - [Overall score/marks](#overall-scoremarks)
+  - [Overall raw score/marks](#overall-raw-scoremarks)
   - [Report](#report)
   - [Other notes](#other-notes)
     - [Forbidden predicates](#forbidden-predicates)
@@ -99,7 +99,7 @@ For each exercise, there are three test sets: `spec`, `core`, and `handcrafted`:
 - `core`: these contain a similar set of tests which use a _different and more complex_ set of items generated from the Minecraft game server. They check for generality of solution, but should be not be much harder or easier than `spec`.
 - `handcrafted`: these contain a set of handcrafted tests which use a manually defined items. These are designed to check edge/special cases and unusual scenarios.
 
-Each single unit test is associated a number of _points_, which are summed up to give the total points for the test set. Each test set is associated a number of _marks_, all test sets in the project sum up to 100. For example, for Exercise 1.A, `spec` is worth 1 mark, and `core` and `handcrafted` are worth 2 each, for a total of 5 marks for the exercise. 
+Each single unit test is associated a number of _points_, which are summed up to give the total points for the test set. Each test set is associated a number of _marks_, all test sets in the project sum up to 100. For example, for Exercise 1.A, `spec` is worth 1 mark, and `core` and `handcrafted` are worth 2 each, for a total of 5 marks for the exercise.
 
 To get the marks for the exercise, one has to collect all points in all test sets. So, if a test set is worth 2 marks and has 10 single tests of 1 point each, collecting 5 points amounts to 1 mark for the test set.
 
@@ -170,7 +170,7 @@ These marks are indicated in the marking report by lines such as:
 
 where `N` is the ID of the test case, `P` is the number of points subtracted from this answer for soundness failure, and `S` is one example of a solution that was unexpected.
 
-## Overall score/marks
+## Overall raw score/marks
 
 Ultimately, the points received by the student for a standard test case is given by the following formula:
 
@@ -188,6 +188,7 @@ This is indicated in the marking report by lines such as:
 ```yaml
 Test N: [P/T] - Final points collected
 ```
+
 where `N` is the ID of the test case, `P` is the number of points received by the submission, and `T` is the total points available.
 
 ## Report
@@ -285,3 +286,5 @@ Here is an example of a good commit history just a single exercise:
 ![](imgs/great-git_repo_commits-prolog.jpg)
 
 This history provides detailed information on how the student solved the problem step-by-step. 👏
+
+When not enough evidence is provided, a discount may be applied. For example, a discount of 0.2 implies that the submission is not eligible for HD-level. Note that we have taken an _extremely conservative_ approach that singles out extreme cases, so when a discount is applied it usually means that the commit history is already quite poor and far from expectations.
