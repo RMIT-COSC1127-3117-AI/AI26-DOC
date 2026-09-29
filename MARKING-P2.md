@@ -292,3 +292,7 @@ Here is an example of a good commit history just a single exercise:
 This history provides detailed information on how the student solved the problem step-by-step. 👏
 
 When not enough evidence is provided, a discount may be applied. For example, a discount of 0.2 implies that the submission is not eligible for HD-level. Note that we have taken an _extremely conservative_ approach that singles out extreme cases, so when a discount is applied it usually means that the commit history is already quite poor and far from expectations.
+
+Here is another great history providing concrete evidence of progress:
+
+![](imgs/great-git_repo_commits-prolog-02.jpg)
