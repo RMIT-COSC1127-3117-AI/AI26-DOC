@@ -73,6 +73,11 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Can we assume that there is no circular dependency within item construction, in either the ingredients or what tools are required to build them?](#can-we-assume-that-there-is-no-circular-dependency-within-item-construction-in-either-the-ingredients-or-what-tools-are-required-to-build-them)
   - [With Exercise 4.B, how should duplicate tools within the requested items be handled? Should a tool used in the construction of another item remove just one of the tools in the requested items or all of the tools in the requested items?](#with-exercise-4b-how-should-duplicate-tools-within-the-requested-items-be-handled-should-a-tool-used-in-the-construction-of-another-item-remove-just-one-of-the-tools-in-the-requested-items-or-all-of-the-tools-in-the-requested-items)
   - [Are Ingredients and Tools mutually exclusive, so an item cannot be used as an Ingredient and Tool, even for different items?](#are-ingredients-and-tools-mutually-exclusive-so-an-item-cannot-be-used-as-an-ingredient-and-tool-even-for-different-items)
+- [Project 3: Reinforcement Learning in Pacman](#project-3-reinforcement-learning-in-pacman)
+  - [What are 'Noise' and 'LivingReward' in Q3?](#what-are-noise-and-livingreward-in-q3)
+  - [How should we come up with values for Q3? Do we just guess? Do we have to explain it?](#how-should-we-come-up-with-values-for-q3-do-we-just-guess-do-we-have-to-explain-it)
+  - [What do I need to do for Q7? The autograder passes without any new code.](#what-do-i-need-to-do-for-q7-the-autograder-passes-without-any-new-code)
+  - [The textbook algorithm for Value Iteration takes $\\epsilon$ as a parameter, where is this in the project code?](#the-textbook-algorithm-for-value-iteration-takes-epsilon-as-a-parameter-where-is-this-in-the-project-code)
 
 -------------------------
 
@@ -797,3 +802,28 @@ A tool used in the construction of another item only counts for one of its insta
 
 Yes.
 
+
+# Project 3: Reinforcement Learning in Pacman
+
+## What are 'Noise' and 'LivingReward' in Q3?
+
+Living reward is the reward given to the agent at each time step regardless of the state it is in (for 'living' another timestep).
+
+Noise is the probability that the agent accidentally moves left/right instead of in the direction it meant to go.
+
+## How should we come up with values for Q3? Do we just guess? Do we have to explain it?
+
+You should definitely not be blindly guessing, but you may need to try a few informed guesses before you get the right answer. You do not need to explain your values.
+
+Longer answer: There is no way to take the expected policy and somehow solve backwards to recover these parameter values, because the values are not unique. There are many (often infinitely many!) different parameter combinations that will lead to the same policy.
+Instead, you should use your understanding of Q-learning to understand which values will result in each of the indicated outcomes. Whether this can be done purely intuitively, or requires actual policy calculations, will depend on how deep your understanding is.
+
+If it seems like a big ask to do this intuitively the only tip I have is that generally in these situations you want to consider extreme values for parameters because that will have the biggest effects.
+
+## What do I need to do for Q7? The autograder passes without any new code.
+
+If you have done all of the previous questions properly, it is very possible for Q7 to run correctly without any new code. It is essentially just applying your existing code to pacman (which is why it is only worth 1 mark). The intention is just for you to understand how the training process works, and to motivate Q8 with the failures of your Q-learning agent to win on the medium grid.
+
+## The textbook algorithm for Value Iteration takes $\epsilon$ as a parameter, where is this in the project code?
+
+The project uses a slightly different version of the algorithm, so there is no epsilon paramter. There is however, a variable that serves a similar purpose. As a hint, what is the point of epsilon in the original algorithm? How is that objective achieved in the project code?
