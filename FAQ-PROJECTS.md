@@ -820,3 +820,12 @@ Your laptop will run on a different speed than the cluster machines used for mar
 To give you a reference, our solution (in the cluster) solves Q5 in 0.6 seconds, and Q7 in less than 10 seconds in the cluster.
 
 To compare your times, you may want to look at [this information](https://github.com/RMIT-COSC1127-3117-AI/AI26-DOC/blob/main/FAQ-PROJECTS.md#how-do-i-compare-the-speed-of-my-desktoplaptop-with-that-from-the-cluster-being-used-for-marking).
+
+Consider an (extreme) case. A student reports 2.3s for Q5 and 49s for Q7 (even more than the default time of 20s!), significantly more than our cluster. The student checks and compares its laptop:
+
+```console
+python -m timeit -n 20 -r 5 "sum(range(1000000))"
+20 loops, best of 5: 51 msec per loop
+```
+
+So, compared with the 9.81 msec per loop in cluster (above link), the student's laptop is 5 times slower. So, if the cluster takes 10s for Q7, then the student's laptop would take 50s, which is consistent with the student's report. ⏲️
