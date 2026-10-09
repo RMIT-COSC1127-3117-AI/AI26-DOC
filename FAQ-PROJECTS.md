@@ -817,6 +817,6 @@ The project uses a slightly different version of the algorithm, so there is no e
 
 Your laptop will run on a different speed than the cluster machines used for marking. The autograder will run your code on the cluster machines.
 
-To give you a reference, our solution solves Q7 in less than 10 seconds in the cluster.
+To give you a reference, our solution (in the cluster) solves Q5 in 0.6 seconds, and Q7 in less than 10 seconds in the cluster.
 
 To compare your times, you may want to look at [this information](https://github.com/RMIT-COSC1127-3117-AI/AI26-DOC/blob/main/FAQ-PROJECTS.md#how-do-i-compare-the-speed-of-my-desktoplaptop-with-that-from-the-cluster-being-used-for-marking).
