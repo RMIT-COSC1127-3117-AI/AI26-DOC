@@ -76,6 +76,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [How should we come up with values for Q3? Do we just guess? Do we have to explain it?](#how-should-we-come-up-with-values-for-q3-do-we-just-guess-do-we-have-to-explain-it)
   - [What do I need to do for Q7? The autograder passes without any new code.](#what-do-i-need-to-do-for-q7-the-autograder-passes-without-any-new-code)
   - [The textbook algorithm for Value Iteration takes $\\epsilon$ as a parameter, where is this in the project code?](#the-textbook-algorithm-for-value-iteration-takes-epsilon-as-a-parameter-where-is-this-in-the-project-code)
+  - [What times should I expect for Q7?](#what-times-should-i-expect-for-q7)
 
 -------------------------
 
@@ -779,7 +780,7 @@ You will need to try to figure out why your heuristic is inconsistent, and fix i
 
 Yes---of course, items cannot be defined in terms of themselves. 😉
 
-## With Exercise 4.B, how should duplicate tools within the requested items be handled? Should a tool used in the construction of another item remove just one of the tools in the requested items or all of the tools in the requested items? 
+## With Exercise 4.B, how should duplicate tools within the requested items be handled? Should a tool used in the construction of another item remove just one of the tools in the requested items or all of the tools in the requested items?
 
 A tool used in the construction of another item only counts for one of its instances in the list of requested items. You need to construct as many copies of a given tool as are requested.
 
@@ -811,3 +812,11 @@ If you have done all of the previous questions properly, it is very possible for
 ## The textbook algorithm for Value Iteration takes $\epsilon$ as a parameter, where is this in the project code?
 
 The project uses a slightly different version of the algorithm, so there is no epsilon paramter. There is however, a variable that serves a similar purpose. As a hint, what is the point of epsilon in the original algorithm? How is that objective achieved in the project code?
+
+## What times should I expect for Q7?
+
+Your laptop will run on a different speed than the cluster machines used for marking. The autograder will run your code on the cluster machines.
+
+To give you a reference, our solution soles Q7 in less than 10 seconds in the cluster.
+
+To compare your times, you may want to look at [this information](https://github.com/RMIT-COSC1127-3117-AI/AI26-DOC/blob/main/FAQ-PROJECTS.md#how-do-i-compare-the-speed-of-my-desktoplaptop-with-that-from-the-cluster-being-used-for-marking).
