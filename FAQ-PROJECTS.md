@@ -22,15 +22,13 @@ As any FAQ page, this page is always "under construction". As we realize that so
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
   - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
-  - [How do I run Python 3.8 in `coreteachingXX.csit.rmit.edu.au`?](#how-do-i-run-python-38-in-coreteachingxxcsitrmiteduau)
-    - [How do I install a package/module in `coreteaching` using `pip`?](#how-do-i-install-a-packagemodule-in-coreteaching-using-pip)
   - [How do I know the type of a variable in Python?](#how-do-i-know-the-type-of-a-variable-in-python)
   - [AttributeError: module 'importlib' has no attribute 'util'](#attributeerror-module-importlib-has-no-attribute-util)
   - [How do I represent infinity?](#how-do-i-represent-infinity)
   - [How do I compare the speed of my desktop/laptop with that from the cluster being used for marking?](#how-do-i-compare-the-speed-of-my-desktoplaptop-with-that-from-the-cluster-being-used-for-marking)
 - [GENERAL PACMAN](#general-pacman)
   - [What is the best way to develop my solutions for the Pacman project?](#what-is-the-best-way-to-develop-my-solutions-for-the-pacman-project)
-  - [How to run Pacman remotely from `coreteaching`?](#how-to-run-pacman-remotely-from-coreteaching)
+  - [How to run Pacman remotely?](#how-to-run-pacman-remotely)
   - [Python libraries and `requirements.txt` file, what are they?](#python-libraries-and-requirementstxt-file-what-are-they)
   - [How do I setup a system in Windows with Python?](#how-do-i-setup-a-system-in-windows-with-python)
   - [Can I use `problem._visited`?](#can-i-use-problem_visited)
@@ -130,7 +128,6 @@ There are several reasons why the course prefer keeping the certification form s
 
 Ultimately, **the purpose of the form is not to duplicate GitHub's functionality but to serve a different educational and administrative purpose.** Keeping these two activities separate also makes it clear that submitting your code and formally certifying your work are two distinct responsibilities.
 
-
 # Development Quality and GIT
 
 ## What is good SE development?
@@ -184,7 +181,7 @@ Hope this puts some context and rationale to the issue, and serves as a good lea
 
 **No!**
 
-That will not only show very poor SE practices (because dummy commits are not meaningful commits), but most importantly it may be deemed as a case of "_dishonest behavior to get an unfair advantage_", which is against the course Honours Code and can be a serious offense. One thing is to have poor SE practices, another thing is to attempt to cheat, so that should be out of the question! :-)
+That will not only show very poor SE practices (because dummy commits are not meaningful commits), but most importantly it may be deemed as a case of "_dishonest behavior to get an unfair advantage_", which is against the course Honours Code and can be a serious offense. One thing is to have poor SE practices, another thing is to attempt to cheat, so that should be out of the question! 😄
 
 ## Technical questions about GIT?
 
@@ -208,13 +205,13 @@ There is no problem **having more than one Python version installed in your mach
 Projects include some dependencies that must be installed before attempting any questions or invoking the autograder. These dependencies are listed in the `requirements.txt` file.
 We recommend installing these dependencies into a virtual environment, _not_ your global Python installation. To create a virtual environment directory called `.venv`:
 
-```
+```console
 $ python -m venv .venv
 ```
 
 Once the virtual environment has been created, activate it:
 
-```
+```console
 $ source .venv/bin/activate
 ```
 
@@ -224,7 +221,7 @@ $ source .venv/bin/activate
 
 Then, once the virtual environment is active, **install all project dependencies** before continuing:
 
-```
+```console
 $ pip install -r requirements.txt
 ```
 
@@ -234,39 +231,6 @@ Always make sure to **activate your virtual environment** before running the pro
 > If the dependencies aren't installed correctly, you will encounter errors saying certain modules cannot be found (e.g. [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#i-get-modulenotfounderror-no-module-named-func_timeout-why) and [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#cannot-run-pacman-due-to-problems-with-tkinter-importerror-no-module-named-tkinter)).
 
 If there are any remaining errors or doubts, please check the rest of the [Python](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#python) and [Pacman](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#general-pacman) sections in this Project FAQ. If neither resource answers your question, ask in the Ed forum! 🙂
-
-## How do I run Python 3.8 in `coreteachingXX.csit.rmit.edu.au`?
-
-We do not recommend using those servers, they are fairly out-of-date and you have very little control over them (e.g., what you can install). These days the best option is to use your own machine/laptop.
-
-The default Python in these servers is 2.7! 🤦 However, you can activate 3.6 and 3.6 using `scl`:
-
-```bash
-[eXXXXX@csitprdap01 ~]$ scl enable rh-python38 bash
-[eXXXXX@csitprdap01 ~]$ python --version
-Python 3.8.18
-[eXXXXX@csitprdap01 ~]$ python
-Python 3.8.18 (default, Oct 24 2023, 08:42:25)
-[GCC 9.1.1 20190605 (Red Hat 9.1.1-2)] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>>
-```
-
-
-### How do I install a package/module in `coreteaching` using `pip`?
-
-Use option `--user` as you cannot do system-wide install:
-
-```shell
-[eXXXX@csitprdap01 ~]$ pip install pytz --user
-WARNING: pip is being invoked by an old script wrapper. This will fail in a future version of pip.
-Please see https://github.com/pypa/pip/issues/5599 for advice on fixing the underlying issue.
-To avoid this problem you can invoke Python with '-m pip' instead of running pip directly.
-Collecting pytz
-  Using cached pytz-2022.1-py2.py3-none-any.whl (503 kB)
-Installing collected packages: pytz
-Successfully installed pytz-2022.1
-```
 
 ## How do I know the type of a variable in Python?
 
@@ -278,7 +242,7 @@ Check this video to know how to print the type of a variable in Python:
 
 Some students reported that running `python capture.py` gives them the following errors:
 
-```shell
+```console
 Traceback (most recent call last):
   File "capture.py", line 1127, in <module>
     options = readCommand( sys.argv[1:] ) # Get game components based on input
@@ -297,43 +261,66 @@ We are still investigating this issue as it seems to work well in our set-up. Th
 
 The best way is to use [`math.inf`](https://docs.python.org/3/library/math.html#math.inf). Python can handle arbitrarily large numbers, and so `math.inf` is both correct and also meaningful for the reader.
 
-**Note:** avoid using `sys.maxsize`; you can check what happens if you do `sys.maxsize < sys.maxsize*2`. :-)
+**Note:** avoid using `sys.maxsize`; you can check what happens if you do `sys.maxsize < sys.maxsize*2`. 😄
 
 ## How do I compare the speed of my desktop/laptop with that from the cluster being used for marking?
 
-In general the cluster is not very fast, hence it won't be a surprise if your laptop runs faster.
+In general our cluster is very reasonable, but not crazy.. 😉 So, do not get surprised if your laptop is equal or faster than the cluster. 🏃
 
-You can compare the relative speed of your machine against the cluster using [python-speed](https://github.com/vprelovac/python-speed).
+To get a rough idea of the speed of your machine, you can run the following command in your terminal (the results below are our cluster machine):
 
-This is what I get in the cluster:
-
-```shell
-$ python bench.py
-python-speed v1.3 using python v3.10.12
-string/mem: 2187.5 ms
-pi calc/math: 2867.82 ms
-regex: 3132.5 ms
-fibonnaci/stack:  1904.6 ms
-multiprocess: 1297.76 ms
-
-total:  11390.18 ms (lower is better)
+```console
+$ python -m timeit -n 20 -r 5 "sum(range(1000000))"
+20 loops, best of 5: 9.71 msec per loop
 ```
 
-And this is what I get from my laptop:
+If you want more fine grained information, you can get and run the [python-speed](https://github.com/vprelovac/python-speed). This script runs a series of benchmarks and gives you a total time for your machine. This is what we got in our cluster machine:
 
-```shell
+```console
 $ python bench.py
-python-speed v1.3 using python v3.10.12
-string/mem: 1126.62 ms
-pi calc/math: 2231.34 ms
-regex: 1877.54 ms
-fibonnaci/stack:  1250.05 ms
-multiprocess: 509.13 ms
+string: w... 560.4 ms
+math: w... 382.5 ms
+regex: w... 480.8 ms
+fib: w... 413.7 ms
+dict: w... 478.4 ms
+list: w... 436.8 ms
+object: w... 198.5 ms
+float: w... 366.4 ms
+json: w... 511.7 ms
+except: w... 465.9 ms
+generator: w... 585.7 ms
+bigint: w... 443.0 ms
+async: w... 333.7 ms
+set: w... 401.7 ms
+multiprocess: w... 322.6 ms
 
-total:  6994.68 ms (lower is better)
+python-speed v2.0 | Python 3.12.3 (CPython) | linux x86_64 | 8 cores
+Config: 3 runs, 1 warmup, factor=1.0
+
+benchmark        median     ± std        min        max
+------------------------------------------------------
+string           560.7  ±   2.6     557.6     562.9
+math             382.8  ±   0.6     381.9     382.9
+regex            479.3  ±   2.5     479.3     483.7
+fib              413.8  ±   0.2     413.4     413.8
+dict             478.3  ±   9.1     469.4     487.6
+list             436.7  ±   0.6     436.2     437.4
+object           198.1  ±   0.7     198.1     199.3
+float            366.7  ±   1.3     365.0     367.6
+json             511.8  ±   0.7     511.0     512.4
+except           465.8  ±   0.2     465.7     466.2
+generator        584.7  ±   1.8     584.7     587.8
+bigint           443.2  ±   1.3     441.6     444.1
+async            333.6  ±   0.6     333.1     334.3
+set              401.7  ±   0.1     401.6     401.9
+multiprocess     322.4  ±   7.6     315.0     330.3
+------------------------------------------------------
+total           6379.7  ±  12.8    6353.7    6412.2  ms
+
+(lower is better, min = best run)
 ```
 
-As you can see my laptop is ~2x faster than the cluster machine! So, _how fast is your laptop_?
+😉 🏃‍♀️So, _how fast is your laptop_?
 
 ------------------------------
 # GENERAL PACMAN
@@ -348,13 +335,13 @@ Also, all development should be done using high-quality version control processe
 
 So, (local machine + VSCode (or other IDE) + git) will make the development much faster and higher-quality.
 
-## How to run Pacman remotely from `coreteaching`?
+## How to run Pacman remotely?
 
-If you do not care about the graphics (e.g., for grading), then try using `--textGraphics` or even `--quietTextGraphics`. In most cases you will use `coreteaching` machines just to test that the autograder works well. The autograder does not need any graphical interface so it should work properly.
+If you do not care about the graphics (e.g., for grading), then try using `--textGraphics` or even `--quietTextGraphics`. The autograder does not need any graphical interface so it should work properly.
 
 If you do want the display, then you need to do X forwarding when you connect via ssh. If you are in Linux/Unix this is easy, just do `-X` and `-Y` when you ssh; for example:
 
-```shell
+```console
 $ ssh -X -Y username@coreteaching01.csit.rmit.edu.au
 ```
 
@@ -368,7 +355,7 @@ Said so, for development, we strongly suggest to clone your repo locally on your
 
 The file `requirements.txt` should have the libraries that are required, you can get these modules running:
 
-```shell
+```console
 $ pip install -r requirements.txt
 ```
 
@@ -394,7 +381,7 @@ If you use Windows, then you need an X server running and set your ssh client (e
 
 Also, if you are using Windows hooked up into Linux (WSL or WSL2), you need to properly resolve the IP Address seen by Linux. For example, under Ubuntu bash, add this to your `~/.bashrc`:
 
-```shell
+```console
 export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0
 ```
 
@@ -406,13 +393,13 @@ As you can see, all these can be too complicated for no benefit. For development
 
 Install Tkinter in your system. In general this is easy to do via:
 
-```shell
+```console
 $ pip install tk
 ```
 
 Now it should be installed, so you should not get this error. But please try the code below, it should not trigger any error:
 
-```shell
+```console
 ❯ python
 Python 3.10.12 (main, Mar 22 2024, 16:50:05) [GCC 11.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -422,10 +409,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 If you are running `conda`:
 
-```bash
+```console
 $ conda install tk
 ```
-
 
 ## I get a blank screen when running Pacman on my Mac, why?
 
@@ -450,7 +436,7 @@ Some Mac users have reported this error when compiling [Metric-FF](https://fai.c
 
 The problem seems to be that the default `gcc` in Mac is set to be `clang`. So, you first neeed to install standard `gcc` on using command `brew install gcc@7`  (must use version 7, newest version 10 won't work) and instead of just `make`, you need to run:
 
-```bash
+```console
 make CC=/usr/local/bin/gcc-7
 ```
 
@@ -460,7 +446,7 @@ Thanks Banhao from AI'20!
 
 This should be easy to troubleshoot, but there are certain Python packages/modules that are needed:
 
-```shell
+```console
 $ pip install func_timeout
 $ pip install pytz
 ```
@@ -504,7 +490,7 @@ In general, before spending a lot of time doing experimental analysis, look at y
 
 ## How can I debug my system?
 
-While you may want to do some print outs here and there, eventually using a debugger is the way to go. Check [this video](https://www.youtube.com/watch?v=w8QHoVam1-I) for a quick guide to debugging python in VSCode (you can do similar things in PyCharm or other editors as well). This is far more flexible and reliable than print messages. :-)
+While you may want to do some print outs here and there, eventually using a debugger is the way to go. Check [this video](https://www.youtube.com/watch?v=w8QHoVam1-I) for a quick guide to debugging python in VSCode (you can do similar things in PyCharm or other editors as well). This is far more flexible and reliable than print messages. 😄
 
 To make life easy for yourself, you will want to create a debugging configuration in VSCode which runs the autograder file, regardless of which file you have open. You will also want to pass in the arguments `-q q1` to run only the first question (or whichever you are interested in). You can accomplish this by adding the following text to the `launch.json` file which stores all the debug configurations:
 ```json
@@ -672,7 +658,7 @@ Basically, every time you call `problem.getSuccessors(.)`.
 
 (It is not popping out from the queue, as we don't have access to that part of your code!)
 
-So be careful not using that function for more than what is needed. When debugging, be careful, you may introduce [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)! :-)
+So be careful not using that function for more than what is needed. When debugging, be careful, you may introduce [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)! 😄
 
 One can implement the various search algorithms (e.g., DFS) doing one call to `getSuccessor()` per loop/node, as in the pseudo-code (e.g., book or slides).
 
@@ -695,7 +681,7 @@ The key point to understand here is *why do we use heuristics after all?* We use
 
 OK, but _faster than what?_ Well, at least faster than if we do not use a heuristic, right? So, we can set the heuristic to just be `0` (by just doing `return 0` at the top of function `foodHeuristic`) and see how much it would take by running:
 
-```shell
+```console
 $ python pacman.py -l trickySearch -p AStarFoodSearchAgent -q
 
 Path found with total cost of 60 in 1.5 seconds
@@ -709,8 +695,7 @@ Record:        Win
 
 So it takes 1.9 seconds (in the cluster machines) when running the agent with an "empty" heuristic. What happens when we plugged our heuristic?
 
-
-```shell
+```console
 $ python pacman.py -l trickySearch -p AStarFoodSearchAgent -q
 
 Path found with total cost of 60 in 0.3 seconds
@@ -757,7 +742,7 @@ Yes, you certainly can, which is why it says the following in the comments:
 
 > This might be a useful helper function for your ApproximateSearchAgent.
 
-Be careful though - it is easy to imagine that if you call a function to do something, it is 'free', but if you look at the code in that function, you will soon realise that this function may take a lot of time itself. :-)
+Be careful though - it is easy to imagine that if you call a function to do something, it is 'free', but if you look at the code in that function, you will soon realise that this function may take a lot of time itself. 😄
 
 ## Can we create a new BFS for the Part/Question X? My implementation doesn't fit with my new state representation!
 
@@ -773,7 +758,7 @@ This issue is about the first task: _representation_.
 
 ## In the feedback autograder, what does `expanded_states` means?
 
-Basically, the number of times you have done expansion of nodes, that is, number of calls to `getSuccessors()`` method. Makes sense? :-)
+Basically, the number of times you have done expansion of nodes, that is, number of calls to `getSuccessors()`` method. Makes sense? 😄
 
 ## For IDS cycle checking, should we check only a few levels, or all the way up to the root node?
 
@@ -801,7 +786,6 @@ A tool used in the construction of another item only counts for one of its insta
 ## Are Ingredients and Tools mutually exclusive, so an item cannot be used as an Ingredient and Tool, even for different items?
 
 Yes.
-
 
 # Project 3: Reinforcement Learning in Pacman
 
