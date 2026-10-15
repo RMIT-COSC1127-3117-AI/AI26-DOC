@@ -73,6 +73,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
     - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
     - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
     - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
+    - [Are partial marks awarded in questions of the Exercise Challenge assessments? How?](#are-partial-marks-awarded-in-questions-of-the-exercise-challenge-assessments-how)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
   - [Questions about GIT?](#questions-about-git)
@@ -833,6 +834,41 @@ Please submit your review request by filling out and emailing the **Review of As
 ### When is the SPC for the final assessment? 📆
 
 SPC for Weeks 13+ assessments will be done during the **deferred assessment period**, which is usually in early December (after the official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] for the year to find out exactly when those assessments will be running. It's great that you're thinking ahead on this — **good luck!** 🍀
+
+### Are partial marks awarded in questions of the Exercise Challenge assessments? How?
+
+The first thing to note is that questions are targeted and designed to assess specific knowledge and skills. This means that rather than having a large question assessing multiple skills, we break it down into smaller questions that each assess a specific skill. This allows for more precise marking. Thus, partial marks of the original "large" question are distributed across the smaller questions, and each smaller question is marked independently. In other words, partial marks are already built-into the assessment design, and each question is marked on its own merit.
+
+Even then individual questions may often allow for partial credit. For example, multiple checkboxes questions, where there may be multiple correct answers, are marked considering two dimensions:
+
+1. **Correctness:** what is the coverage of the correct answers? That is, how many of the correct options were selected.
+2. **Soundness:** are all the selected answers correct? That is, were any incorrect options selected?
+
+Both dimensions are taken into account. A default "symmetric" scheme is used as initial baseline:
+
+pts = total_pts * [(#correctly selected options - #incorrectly selected options) / #total correct options]
+
+For example, suppose a question worth 4 point has 5 ooptions with 2 of them correct options:
+
+- If you select just the 2 correct ones, then your score would obviously get full marks:
+
+    pts = 4 * [(2 - 0)/2] = 4 * [2/2] = 4 * 1 = 4 points
+
+- If you select just one option and is one of the correct ones, then your score would be 50%:
+
+    pts = 4 * [(1 - 0)/2] = 4 * [1/2] = 4 * 0.5 = 2 points
+
+- If you select 3 options, 2 of which are correct and 1 is incorrect, then your score would be
+
+    pts = 4 * [(2 - 1)/2] = 4 * [1/2] = 4 * 0.5 = 2 points
+
+- If you select 4 options (almost all of them), 2 of which are correct and two incorrect, then:
+
+    pts = 4 * [(2 - 2)/2] = 4 * [0/2] = 4 * 0 = 0 points
+
+Now, this is the general "default" scheme. For some questions we implement a more subtle marking. For example, some options are more important than others and thus will carry more weight: maybe option 
+option A is the core expected answer and option B is very advanced, so maybe A is worth 3 points and B is worth 1 point of the overall 4. Also, in some cases, two options could be completely inconsistent with each other, so if answering both shows deep misunderstanding and would therefore attract zero marks (e.g., if you answer P and NOT P).
+
 
 # EXTRAS
 
