@@ -869,6 +869,9 @@ For example, suppose a question worth 4 point has 5 ooptions with 2 of them corr
 Now, this is the general "default" scheme. For some questions we implement a more subtle marking. For example, some options are more important than others and thus will carry more weight: maybe option 
 option A is the core expected answer and option B is very advanced, so maybe A is worth 3 points and B is worth 1 point of the overall 4. Also, in some cases, two options could be completely inconsistent with each other, so if answering both shows deep misunderstanding and would therefore attract zero marks (e.g., if you answer P and NOT P).
 
+> [!IMPORTANT]
+> Nonetheless, we suggest **not to speculate** on the grading scheme or think about it too much --- it produces unnecessary anxiety and reduced focus. There are no negative marking: no question can attract negative points. So, just trust the teaching staff who are doing their job and try to answer your best informed way. If you are unsure about a question, just answer it to the best of your knowledge and understanding. The marking scheme is designed to be fair and to reward correct understanding, while penalising incorrect or inconsistent answers. As when you go into a flight, you should trust the pilot to fly the plane, and not worry about the technicalities of how it works. The same applies here: trust the teaching staff to mark your work fairly, and focus on doing your best! 👍
+
 
 # EXTRAS
 
