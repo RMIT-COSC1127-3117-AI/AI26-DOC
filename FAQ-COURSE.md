@@ -76,6 +76,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
     - [When is the SPC Deferred period for the final assessment? 📆](#when-is-the-spc-deferred-period-for-the-final-assessment-)
     - [Are partial marks awarded in questions of the Exercise Challenge assessments? How?](#are-partial-marks-awarded-in-questions-of-the-exercise-challenge-assessments-how)
   - [Why does the cheat-sheet allowed need to be handwritten? Can't I just type it and print it?](#why-does-the-cheat-sheet-allowed-need-to-be-handwritten-cant-i-just-type-it-and-print-it)
+  - [Will the final exam be harder than the final mock?](#will-the-final-exam-be-harder-than-the-final-mock)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
   - [Questions about GIT?](#questions-about-git)
@@ -892,6 +893,15 @@ As mentioned, we allow a cheat-sheet not just as a "help tool" at the assessment
 This is not something new or mine, of course, it is well understood; for example: https://pmc.ncbi.nlm.nih.gov/articles/PMC11943480/
 
 Said so, those who have an ELP that requires electronic notes will be allowed that, of course.
+
+## Will the final exam be harder than the final mock?
+
+We cannot tell you how difficult the final assessment will be, because there is a lot of subjective judgement involved in that. However, we can say that the final assessment will be _fair_ and _representative_ of the course content, and will be designed to assess your knowledge and skills in a way that is consistent with the learning outcomes of the course.
+
+If you find the mock exercise and tutorial sheets manageable overall, that's a good sign! 🙂 If you keep working to consolidate the areas you're least confident in, and to speed up the questions which take the most time, you have every reason to be confident going into next week.
+
+Remember that the assessment is meant to evaluate your understanding of the course content (i.e. the readings and tutorial sheets) as accurately as possible, so we're not going to turn the temperature up on you arbitrarily. Just keep up the practice and revision!
+
 
 # EXTRAS
 
