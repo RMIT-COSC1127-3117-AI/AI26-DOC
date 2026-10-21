@@ -75,6 +75,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
     - [I am not able to attend the in-person assessment; can I take it at another time?](#i-am-not-able-to-attend-the-in-person-assessment-can-i-take-it-at-another-time)
     - [When is the SPC Deferred period for the final assessment? 📆](#when-is-the-spc-deferred-period-for-the-final-assessment-)
     - [Are partial marks awarded in questions of the Exercise Challenge assessments? How?](#are-partial-marks-awarded-in-questions-of-the-exercise-challenge-assessments-how)
+  - [Why does the cheat-sheet allowed need to be handwritten? Can't I just type it and print it?](#why-does-the-cheat-sheet-allowed-need-to-be-handwritten-cant-i-just-type-it-and-print-it)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
   - [Questions about GIT?](#questions-about-git)
@@ -882,6 +883,15 @@ option A is the core expected answer and option B is very advanced, so maybe A i
 > [!IMPORTANT]
 > Nonetheless, we suggest **not to speculate** on the grading scheme or think about it too much --- it produces unnecessary anxiety and reduced focus. There are no negative marking: no question can attract negative points. So, just trust the teaching staff who are doing their job and try to answer your best informed way. If you are unsure about a question, just answer it to the best of your knowledge and understanding. The marking scheme is designed to be fair and to reward correct understanding, while penalising incorrect or inconsistent answers. As when you go into a flight 🛬, you should trust the pilot to fly the plane, and not worry about the technicalities of how it works. The same applies here: trust the teaching staff to mark your work fairly, and focus on doing your best! 👍
 
+## Why does the cheat-sheet allowed need to be handwritten? Can't I just type it and print it?
+
+Believe it or not, handwriting yields much better memory retention, conceptual understanding, and focus than electronic typing. The effort and physical and cognitive limitations of handwriting actually force your brain to process information more deeply. There are also well known learning advantages when doing the layout (arrows, symbols, boxes, underlining, custom layouts) by hand "manually"
+
+As mentioned, we allow a cheat-sheet not just as a "help tool" at the assessment time, but most importantly as educators to promote better studying beforehand.
+
+This is not something new or mine, of course, it is well understood; for example: https://pmc.ncbi.nlm.nih.gov/articles/PMC11943480/
+
+Said so, those who have an ELP that requires electronic notes will be allowed that, of course.
 
 # EXTRAS
 
@@ -926,7 +936,6 @@ In particular, **I value feedback from students who actively engaged with the co
 👍 Constructive positive/negative feedback helps improve the course in meaningful ways.
 
 😄 **Your contribution is genuinely valuable for future students -- please help them by sharing your experience!** 😄
-
 
 ### Some links on the topic of student course survey
 
