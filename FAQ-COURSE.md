@@ -72,7 +72,8 @@ As any FAQ page, this page is always "under construction”. As we realise that 
     - [When will the Final Assessment be (and where)?](#when-will-the-final-assessment-be-and-where)
     - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
     - [I would like to challenge the final assessment (review period after grade release); can I do it? 🧐](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it-)
-    - [When is the SPC for the final assessment? 📆](#when-is-the-spc-for-the-final-assessment-)
+    - [I am not able to attend the in-person assessment; can I take it at another time?](#i-am-not-able-to-attend-the-in-person-assessment-can-i-take-it-at-another-time)
+    - [When is the SPC Deferred period for the final assessment? 📆](#when-is-the-spc-deferred-period-for-the-final-assessment-)
     - [Are partial marks awarded in questions of the Exercise Challenge assessments? How?](#are-partial-marks-awarded-in-questions-of-the-exercise-challenge-assessments-how)
 - [EXTRAS](#extras)
   - [Cannot access the Google Form, says I need permission](#cannot-access-the-google-form-says-i-need-permission)
@@ -831,7 +832,16 @@ Please submit your review request by filling out and emailing the **Review of As
 > [!IMPORTANT]
 > When a review is performed upon request, the final mark can go up, stay the same, or go down. ⚖️
 
-### When is the SPC for the final assessment? 📆
+### I am not able to attend the in-person assessment; can I take it at another time?
+
+Students are expected to make themselves available for the in-person assessments. When it is the final assessment, these are done during the official RMIT assessment period Weeks 14-16.
+
+However, if you are unable to attend due to **extenuating circumstances**, you may apply for [Special Consideration (SPC)][RMIT-SPC] through the RMIT SPC process. If approved, you will be scheduled for a deferred assessment. If it is the final assessment, check the next question!
+
+> [!NOTE]
+> I am not able to grant SPCs myself for in-person assessments. You must submit your SPC request through the official RMIT channels.
+
+### When is the SPC Deferred period for the final assessment? 📆
 
 SPC for Weeks 13+ assessments will be done during the **deferred assessment period**, which is usually in early December (after the official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] for the year to find out exactly when those assessments will be running. It's great that you're thinking ahead on this — **good luck!** 🍀
 
@@ -866,7 +876,7 @@ For example, suppose a question worth 4 point has 5 ooptions with 2 of them corr
 
     pts = 4 * [(2 - 2)/2] = 4 * [0/2] = 4 * 0 = 0 points
 
-Now, this is the general "default" scheme. For some questions we implement a more subtle marking. For example, some options are more important than others and thus will carry more weight: maybe option 
+Now, this is the general "default" scheme. For some questions we implement a more subtle marking. For example, some options are more important than others and thus will carry more weight: maybe option
 option A is the core expected answer and option B is very advanced, so maybe A is worth 3 points and B is worth 1 point of the overall 4. Also, in some cases, two options could be completely inconsistent with each other, so if answering both shows deep misunderstanding and would therefore attract zero marks (e.g., if you answer P and NOT P).
 
 > [!IMPORTANT]
