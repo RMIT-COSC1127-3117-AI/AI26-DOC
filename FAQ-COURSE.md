@@ -779,7 +779,10 @@ So, the three main issues I've repeatedly seen that amount to poor-quality study
 
 Finally, two great resources to check.
 
-📹 First, watch the video ["Harvard Students Don’t Study Harder — They Do THIS Instead"](https://youtu.be/CefO5lp2wOk?si=WRrsAz_1OmM_nUBe).
+📹 First, watch the videos:
+
+1. ["Harvard Students Don’t Study Harder — They Do THIS Instead"](https://youtu.be/CefO5lp2wOk?si=WRrsAz_1OmM_nUBe)
+2. [Learn Anything So Fast It's Almost Unfair](https://youtu.be/f1gkkzHZxNg?si=m8dmQOmrJaMCxHT1)
 
 ✅ Second, implement these [11 effective study habits](https://www.coursera.org/articles/study-habits), from Coursera: 🔗
 
