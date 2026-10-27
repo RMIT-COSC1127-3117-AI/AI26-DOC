@@ -621,7 +621,9 @@ Either case your aim is to find that email, as it serves as a receipt of your su
 
 ## Will I get the results of the final assessment before course results are released?
 
-We are not allowed to release the results of the final assessment before the course results are finalised and released officially. However, once that happens we will run a review sessions for the final assessment for those interested after release of the course results. 👍
+We are not allowed to release the results of the final assessment before the course results are finalised and released officially. Note that the course is officially finished, so any feedback will not be part of the learning framework of the course (there are no more classes or further assessments to build upon).
+
+However, once that happens we will run a review sessions for the final assessment for those interested after release of the course results. 👍
 
 ## Projects and Assignments
 
