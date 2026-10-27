@@ -54,6 +54,7 @@ As any FAQ page, this page is always "under construction”. As we realise that 
   - [I was never asked these questions in an assignment or test, why?](#i-was-never-asked-these-questions-in-an-assignment-or-test-why)
   - [I have a SPC for an assessment, how does it work? What is an Equivalent Assessment?](#i-have-a-spc-for-an-assessment-how-does-it-work-what-is-an-equivalent-assessment)
   - [I have not received the email receipt from my form submission, what should I do? Is that OK?](#i-have-not-received-the-email-receipt-from-my-form-submission-what-should-i-do-is-that-ok)
+  - [Will I get the results of the final assessment before course results are released?](#will-i-get-the-results-of-the-final-assessment-before-course-results-are-released)
   - [Projects and Assignments](#projects-and-assignments)
     - [Are assignments individual or in groups?](#are-assignments-individual-or-in-groups)
     - [I enrolled late into the course, can I get an extension?](#i-enrolled-late-into-the-course-can-i-get-an-extension)
@@ -617,6 +618,10 @@ No, it is not OK. You should have received an email receipt confirming your subm
 2. You did submit but the email went to your spam/junk folder first.
 
 Either case your aim is to find that email, as it serves as a receipt of your submission. 👍
+
+## Will I get the results of the final assessment before course results are released?
+
+We are not allowed to release the results of the final assessment before the course results are finalised and released officially. However, once that happens we will run a review sessions for the final assessment for those interested after release of the course results. 👍
 
 ## Projects and Assignments
 
